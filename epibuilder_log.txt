@@ -1,0 +1,122 @@
+Nextflow 26.04.6 is available - Please consider updating your version to it
+
+ N E X T F L O W   ~  version 25.04.0
+
+Launching `/epibuilder/src/core/pipeline/main.nf` [golden_mcnulty] DSL2 - revision: de78161125
+
+WARN: Access to undefined parameter `minLength` -- Initialise it to a default value eg. `params.minLength = some_value`
+WARN: Access to undefined parameter `maxLength` -- Initialise it to a default value eg. `params.maxLength = some_value`
+WARN: Access to undefined parameter `threshold` -- Initialise it to a default value eg. `params.threshold = some_value`
+WARN: Access to undefined parameter `proteomes` -- Initialise it to a default value eg. `params.proteomes = some_value`
+Output directory already exists: /data/results_epibuilder
+[-        ] validate_fasta   -
+[-        ] run_bepipred     -
+[-        ] run_localization -
+[-        ] run_epibuilder   -
+[-        ] export_excel     -
+
+executor >  local (1)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 0 of 1
+[-        ] run_bepipred                   -
+[-        ] run_localization               -
+[-        ] run_epibuilder                 -
+[-        ] export_excel                   -
+
+executor >  local (1)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 0 of 1
+[-        ] run_bepipred                   -
+[-        ] run_localization               -
+[-        ] run_epibuilder                 -
+[-        ] export_excel                   -
+
+executor >  local (3)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 0 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 0 of 1
+[41/5b95ab] run…ization (run_localization) | 0 of 1
+[-        ] run_epibuilder                 -
+[-        ] export_excel                   -
+
+executor >  local (3)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 0 of 1
+[41/5b95ab] run…ization (run_localization) | 0 of 1
+[-        ] run_epibuilder                 -
+[-        ] export_excel                   -
+
+executor >  local (3)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 0 of 1
+[41/5b95ab] run…ization (run_localization) | 0 of 1 ✔
+[-        ] run_epibuilder                 -
+[-        ] export_excel                   -
+
+executor >  local (3)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 0 of 1
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[-        ] run_epibuilder                 -
+[-        ] export_excel                   -
+
+executor >  local (3)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 1 of 1 ✔
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[-        ] run_epibuilder                 -
+[-        ] export_excel                   -
+
+executor >  local (3)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 1 of 1 ✔
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[-        ] run_epibuilder                 | 0 of 1
+[-        ] export_excel                   -
+
+executor >  local (4)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 1 of 1 ✔
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[5a/a21688] run_epibuilder (epibuilder)    | 0 of 1
+[-        ] export_excel                   -
+
+executor >  local (4)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 1 of 1 ✔
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[5a/a21688] run_epibuilder (epibuilder)    | 0 of 1 ✔
+[-        ] export_excel                   -
+
+executor >  local (5)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 1 of 1 ✔
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[5a/a21688] run_epibuilder (epibuilder)    | 1 of 1 ✔
+[6d/683aa8] export_excel (export_excel)    | 0 of 1
+
+executor >  local (5)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 1 of 1 ✔
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[5a/a21688] run_epibuilder (epibuilder)    | 1 of 1 ✔
+[6d/683aa8] export_excel (export_excel)    | 0 of 1
+
+executor >  local (5)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 1 of 1 ✔
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[5a/a21688] run_epibuilder (epibuilder)    | 1 of 1 ✔
+[6d/683aa8] export_excel (export_excel)    | 1 of 1 ✔
+
+executor >  local (5)
+[c8/032bfd] val…ate_fasta (validate_fasta) | 1 of 1 ✔
+[7b/35da76] run_bepipred (bepipred)        | 1 of 1 ✔
+[41/5b95ab] run…ization (run_localization) | 1 of 1 ✔
+[5a/a21688] run_epibuilder (epibuilder)    | 1 of 1 ✔
+[6d/683aa8] export_excel (export_excel)    | 1 of 1 ✔
+WARN: Graphviz is required to render the execution DAG in the given format -- See http://www.graphviz.org for more info.
+Completed at: 28-Sep-2026 16:37:47
+Duration    : 9m 58s
+CPU hours   : 0.2
+Succeeded   : 5
+
+
+Pipeline finished successfully

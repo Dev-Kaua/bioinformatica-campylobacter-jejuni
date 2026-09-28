@@ -1,0 +1,1621 @@
+# k used for kNN is: 32
+Q0P8H3 E.R. 21, extr 5, plas 2, pero 2
+Q0P9C4 plas 28, E.R. 4
+Q0P9C5 cyto 14, mito 10.5, E.R._mito 7.5, cyto_pero 7.5
+Q0P9D1 cyto 19.5, cyto_nucl 12.5, extr 7, nucl 4.5
+O69290 cyto 22, cyto_nucl 16.5, cyto_mito 12.6667, cyto_pero 12.1667, cyto_plas 12.1667, nucl 7.5
+Q0P7R8 cyto 18, cysk 7, nucl 6
+Q0P8H7 cyto 24.5, cyto_nucl 16, nucl 4.5
+Q0P8I7 cyto 17, mito 12, cyto_nucl 10.5
+Q0P8I9 cyto 27, mito 3
+Q0P8J1 cyto 25, mito 6
+Q0P8J6 cyto 19.5, cyto_nucl 12.5, nucl 4.5, pero 3, extr 2, cysk 2, mito_pero 2
+Q0P8J9 cyto 19.5, cyto_plas 10.5, mito 9
+Q0P8U5 cyto 18.5, cyto_nucl 13, nucl 6.5, mito 4
+Q0P9C8 plas 32
+Q0P9D3 plas 14, cyto 14, cyto_plas 14
+Q0PA68 extr 24, nucl 2, cyto 2, mito 2, cyto_nucl 2, cyto_mito 2, mito_nucl 2
+Q0PAA2 cyto 22, cyto_nucl 13.3333, cyto_pero 12.8333, extr 4, nucl 3.5
+Q0PB48 cyto 26, cyto_nucl 16, nucl 4
+Q0PC20 cyto 12.5, cyto_mito 11.5, mito 9, E.R._mito 7.33333, extr 4, E.R. 2.5, extr_plas 2.5
+Q6TG07 cyto 15.5, cyto_nucl 10, mito 9, extr 6
+Q6TG09 pero 9, E.R._mito 8.5, E.R. 7, cyto 6, plas 5, mito 4
+Q9PHN5 cyto 18, mito 13
+Q9PIL7 cyto 9.5, cyto_pero 9, pero 7.5, extr 5, E.R. 4.5, E.R._mito 3.5, plas 3
+Q9PJ84 cyto 20, pero 8, plas 1, extr 1, nucl 1, extr_plas 1, E.R._mito 1
+Q9PLZ2 cyto 22.5, cyto_nucl 16, nucl 8.5
+Q9PM40 cyto 25.5, cyto_nucl 15, nucl 3.5
+Q9PM68 cyto 26, mito 6
+Q9PMG8 cyto 25, mito 4
+Q9PMN3 cyto 15.5, extr 10, cyto_nucl 8.5, mito 2, pero 1, lyso 1, cysk 1, golg 1, E.R._mito 1
+Q9PMQ9 plas 26, E.R. 5
+Q9PN98 cyto 18.5, cyto_nucl 13.5, nucl 7.5, mito 5
+Q9PPA2 mito 16, cyto 12, nucl 1, E.R. 1, pero 1, lyso 1
+Q9PPD9 mito 19, cyto 7, cyto_nucl 6, nucl 3
+O52914 mito 19.5, cyto_mito 16, cyto 11.5
+O69289 cyto 24, cyto_pero 14.3333, cyto_nucl 13.8333, pero 3.5
+O69294 cyto_nucl 18.3333, cyto 17.5, cyto_pero 11.1667, nucl 11
+O69300 cyto 20, cysk 6, mito 4
+O69303 cyto 16, mito 13
+O85213 cyto 19, cyto_nucl 14.8333, cyto_pero 10.5, nucl 7.5
+O87667 cyto 24, cyto_nucl 16.5, nucl 5
+P0C630 plas 26, cyto 3
+P0C631 cyto 20.5, cyto_nucl 14.8333, cyto_plas 11.1667, nucl 7
+P0C632 cyto 21.5, cyto_nucl 16.5, mito 6
+P0C634 cyto 13, extr 12, nucl 3, mito 2, pero 2, mito_pero 2
+P24531 cyto 15, plas 11, mito 3
+P41257 cyto 19.5, cyto_nucl 12.5, nucl 4.5, pero 3, cysk 3
+P41258 cyto 22.5, cyto_pero 14.6667, cyto_nucl 13.3333, pero 5.5
+P42448 cysk 22, cyto 8
+P51594 cyto 22, cyto_nucl 18, cyto_plas 14
+P54413 cyto_nucl 18.6667, cyto 18.5, cyto_plas 11.6667, nucl 7.5
+P56963 cyto 17, mito 8, nucl 7
+P56964 mito 13, cyto 11, cyto_nucl 9.5, nucl 6
+P80672 extr 17, E.R. 8, pero 3, lyso 3
+P96747 cyto_nucl 20, nucl 16, cyto 14
+Q03470 cyto 23.5, cyto_pero 13, mito 4, nucl 3
+Q0P7S1 cyto_nucl 19.8333, cyto 17.5, nucl 14, cyto_mito 10.1667
+Q0P7U6 cyto 16.5, extr 11, cyto_nucl 9.5, mito 3
+Q0P7V6 cyto 25.5, cyto_nucl 15.3333, cyto_pero 14.6667, nucl 3
+Q0P7X7 cyto 20, cyto_nucl 12, mito 9
+Q0P7Y3 cyto 18.5, cyto_nucl 14, nucl 6.5, mito 2, pero 2, cysk 2, mito_pero 2
+Q0P823 cyto 20.5, cyto_nucl 13, nucl 4.5, cysk 3
+Q0P850 cyto 11.5, cyto_nucl 11.5, nucl 10.5, extr 6
+Q0P857 extr 16, cyto 11.5, cyto_nucl 7.5, nucl 2.5
+Q0P859 plas 19, extr 13
+Q0P862 plas 31
+Q0P885 extr 26, E.R. 3
+Q0P891 extr 14, cyto 12, mito 3
+Q0P897 cyto 16, nucl 4, cysk 4, E.R. 3, cysk_plas 3, mito_nucl 3
+Q0P8C7 plas 24, E.R. 8
+Q0P8F7 cyto 21.5, cyto_pero 14, pero 5.5, nucl 2, mito 2, mito_nucl 2
+Q0P8G1 cyto 21, nucl 9
+Q0P8H8 cyto 17.5, cyto_nucl 14.5, nucl 6.5, E.R. 3, pero 3
+Q0P8I6 cyto 22.5, cyto_nucl 13, pero 3, nucl 2.5, mito_pero 2.5
+Q0P8J7 cyto 21, cyto_nucl 12.8333, cyto_plas 11.3333, extr 5
+Q0P8J8 cyto 19, mito 9, pero 2
+Q0P8P1 cyto 20, cyto_nucl 17, cyto_plas 12.8333, nucl 6.5
+Q0P8Q2 extr 13, E.R. 9, lyso 4, pero 3, mito_pero 3
+Q0P8Q8 extr 31
+Q0P8R5 cyto 12.5, cyto_nucl 9.5, extr 7, cysk 7, nucl 3.5, extr_plas 3.5, cysk_plas 3.5
+Q0P8S7 cyto 17.5, cyto_nucl 12.5, nucl 6.5, E.R._mito 4, mito 3.5
+Q0P8T0 mito 13.5, cyto_mito 12.5, cyto 10.5, nucl 7
+Q0P8T1 cyto 28, E.R._mito 3
+Q0P8U0 cyto 18, extr 5, E.R._mito 4.33333, mito 3, extr_plas 3, mito_pero 3
+Q0P8U2 cyto 26, mito 5
+Q0P8U3 cyto 19, mito 13
+Q0P8W3 cyto 20.5, cyto_nucl 16.8333, cyto_pero 13, nucl 7
+Q0P8W4 cyto 23, cyto_nucl 12.3333, cyto_plas 12.3333, extr 3
+Q0P8Y9 cyto 8, mito 7, mito_pero 6, plas 5, nucl 5, cyto_golg 5
+Q0P903 cyto 22, cyto_nucl 16, nucl 8
+Q0P950 cyto 28.5, cyto_nucl 16.5
+Q0P9A0 cyto 20, cyto_nucl 17.1667, cyto_pero 12.3333, cyto_plas 11.3333, nucl 8
+Q0P9A8 cyto 21, cyto_nucl 11.8333, cyto_plas 11.3333, extr 3, mito 3
+Q0P9C6 pero 17, cyto 6, nucl 4, mito 3, cyto_golg 3
+Q0P9C7 cyto 12.5, extr 10, cyto_nucl 8.66667, cyto_pero 8, mito 7
+Q0P9C9 cyto 28, mito 3
+Q0P9D0 extr 30
+Q0P9D4 plas 20, E.R. 10, extr_plas 10, cysk_plas 10, cyto_plas 10
+Q0P9D8 pero 15, plas 9, cyto_pero 9
+Q0P9F1 cyto 22.5, cyto_nucl 14, mito 6
+Q0P9H9 cyto 19.5, cyto_nucl 15.5, nucl 8.5
+Q0P9J4 cyto 20, mito 5, pero 3, nucl 2
+Q0P9K0 cyto 20, cyto_nucl 16.8333, cyto_pero 12.3333, nucl 6.5
+Q0P9K4 cyto 17.5, cyto_nucl 11, mito 9, nucl 3.5
+Q0P9L4 plas 30
+Q0P9Q1 cyto 14.5, cyto_mito 8.66667, nucl 7, pero 6, mito_pero 4.83333
+Q0P9R0 cyto 15.5, mito 11, cyto_nucl 10.5, nucl 4.5
+Q0P9V4 cyto 24.5, cyto_nucl 15.5, nucl 3.5
+Q0P9V7 cyto 28.5, cyto_nucl 15.5
+Q0P9W3 extr 26, plas 3, E.R. 3
+Q0P9X8 extr 27, E.R. 2
+Q0P9Y2 plas 28, E.R. 4
+Q0P9Z4 cyto 24, nucl 3, mito 3, mito_nucl 3
+Q0P9Z5 plas 32
+Q0PA12 plas 22, mito 4, E.R. 2, nucl 1, cyto 1, cyto_nucl 1, pero 1, golg 1, cyto_pero 1, cyto_golg 1
+Q0PA27 cyto 26.5, cyto_nucl 14.5, mito 4
+Q0PA35 cyto 22, pero 3, extr 2, mito 2, E.R. 2, E.R._mito 2
+Q0PA50 cysk 24, cyto 3.5, mito 3, cyto_nucl 2.5
+Q0PA55 cyto 19.5, cyto_nucl 16, nucl 9.5
+Q0PAB6 cyto 28, mito 2
+Q0PAH2 E.R. 19, plas 5, extr 5, extr_plas 5
+Q0PAJ5 cyto 24, nucl 5
+Q0PAK1 plas 32
+Q0PAR0 plas 27, pero 4
+Q0PAS0 cyto 24.5, cyto_nucl 15, mito 4
+Q0PAS8 cyto 18.5, cyto_nucl 15, nucl 6.5, extr 4
+Q0PAT1 cyto 24, nucl 3, cysk 3
+Q0PAU2 cyto 16.5, mito 12, cyto_nucl 9.5
+Q0PAV4 cyto 19.5, cyto_nucl 14, cysk 6, nucl 5.5
+Q0PAY2 cyto 21.5, cyto_nucl 14.5, cyto_plas 13.3333, mito 4
+Q0PAZ9 extr 19, E.R. 8, plas 2
+Q0PB02 cyto 23.5, cyto_nucl 14.5, nucl 4.5
+Q0PB51 cyto 21.5, cyto_nucl 16.1667, cyto_plas 12.6667, nucl 5.5
+Q0PB55 cyto 28, mito 3
+Q0PB62 cysk 21, cyto 4.5, cyto_nucl 4.5, nucl 3.5
+Q0PB73 pero 14, extr 8, plas 3, E.R. 3, lyso 3
+Q0PBA1 cyto 19, cyto_pero 14.1667, cyto_nucl 13.3333, nucl 5, pero 5
+Q0PBA5 cyto 19.5, cyto_mito 12.6667, E.R._mito 5.83333, mito 4, nucl 2, pero 2
+Q0PBB6 cyto 22, cyto_nucl 14.3333, cyto_pero 12.8333, nucl 5.5
+Q0PBC3 cyto 23, mito 7
+Q0PBE9 plas 14, E.R. 8, extr 4, pero 4, E.R._mito 4, E.R._golg 4
+Q0PBG3 cysk 14, cyto 8, nucl 5, cyto_mito 5
+Q0PBJ3 cyto 17, cysk 7, extr 3, nucl 2
+Q0PBK2 cyto 22, cyto_nucl 13.3333, cyto_plas 11.8333, nucl 3.5, extr 3
+Q0PBM4 cysk 24, cyto 6
+Q0PBN4 cyto 20.5, cyto_nucl 16.5, extr 6, nucl 5.5
+Q0PBN6 cyto 20, cyto_nucl 12, cysk 5, mito 4
+Q0PBP6 cyto 30
+Q0PBU3 cyto 25, cyto_nucl 16.5, nucl 4
+Q0PBU4 cyto 21.5, cyto_nucl 16.5, nucl 8.5
+Q0PBV1 cyto 28.5, cyto_plas 15
+Q0PBV2 mito 12, cyto 10.5, cyto_nucl 9, nucl 4.5, extr 3
+Q0PBX7 cyto 18.5, cyto_nucl 11, mito 10
+Q0PC10 cyto 15, cyto_nucl 14, nucl 7, extr 5, golg 3
+Q0PC30 cyto 21, cysk 6, nucl 2, mito 2, mito_nucl 2
+Q0PC34 extr 25, plas 4
+Q0PC41 cyto 24, mito 7
+Q0PC87 cyto 24, cyto_nucl 16, nucl 4
+Q46106 cyto_nucl 17.6667, cyto 16, nucl 11, cyto_plas 10.1667
+Q46108 cyto 26, nucl 5
+Q59291 cyto 17, mito 9, nucl 4
+Q59296 cyto 21, cyto_nucl 15, nucl 7
+Q9JN05 cyto 16.5, cyto_mito 11.5, extr 7, mito 5.5
+Q9PHK7 cyto 24, cyto_nucl 14, extr 2, nucl 2, mito 2
+Q9PHK9 cyto 26.5, cyto_nucl 14.5, mito 2, pero 2, mito_pero 2
+Q9PHL1 cyto 19, mito 10
+Q9PHM6 cyto 22.5, cyto_nucl 12, mito 3, extr 2, pero 2
+Q9PHM7 cyto 26.5, cyto_nucl 14.5, mito 2, pero 2, mito_pero 2
+Q9PHM8 cyto 15, mito 14
+Q9PHM9 cyto 24, nucl 3, mito 3, mito_nucl 3
+Q9PHQ1 cyto 21, cyto_nucl 16.6667, cyto_plas 12.5, nucl 6
+Q9PHR3 plas 32
+Q9PHU4 cyto 21.5, cyto_nucl 12.5, mito 6, nucl 2.5
+Q9PHW6 nucl 20, cyto 9
+Q9PHW9 cyto 27, mito 4
+Q9PHX2 cyto 23, cyto_nucl 12.8333, cyto_pero 12.8333, extr 3, E.R. 2
+Q9PHY1 cyto 29
+Q9PHZ7 cyto 20.5, cyto_nucl 15, cyto_plas 13, mito 3
+Q9PI02 cyto 20.5, cyto_nucl 15, nucl 6.5, extr 2, cysk 2
+Q9PI05 cyto 24, nucl 6
+Q9PI30 cyto 19, cyto_nucl 18, nucl 11.5, cyto_pero 10.8333, cyto_mito 10.8333, cyto_plas 10.8333
+Q9PI55 cyto 26.5, cyto_pero 14, nucl 4
+Q9PI62 cyto 20, cyto_nucl 13.5, nucl 5, extr 3, pero 3
+Q9PI71 cyto 27, mito 4
+Q9PI72 plas 30
+Q9PI73 cyto 21, mito 5, nucl 4
+Q9PIB3 cyto 19, nucl 7, mito 5
+Q9PIB4 cyto 25.5, cyto_nucl 13.5, mito 4
+Q9PIB8 cyto 16, mito 13
+Q9PIC1 cyto 21.5, cyto_nucl 13.8333, cyto_plas 11.6667, nucl 4, extr 3
+Q9PIC3 mito 17, cyto 10, cyto_nucl 6.5, extr 4
+Q9PIE2 cyto 21, mito 10
+Q9PIE4 plas 25, lyso 3, pero 2
+Q9PIG7 cyto 22, cyto_nucl 17, cyto_plas 13.8333, nucl 4.5
+Q9PIH0 cyto 19, cyto_nucl 13.5, nucl 6, mito 3
+Q9PIH1 cyto_nucl 18.5, cyto 17.5, nucl 10.5
+Q9PIH3 cyto 27, mito 3
+Q9PIH5 cyto 16.5, cyto_nucl 12.5, nucl 7.5, mito 4
+Q9PIH8 cyto 27, nucl 2, mito 2, mito_nucl 2
+Q9PII5 cyto 22, cyto_nucl 15.8333, cyto_pero 14.1667, nucl 4.5, pero 4.5
+Q9PII7 cyto 20, extr 5, nucl 4
+Q9PIJ1 cyto 25, nucl 5
+Q9PIK1 cyto 26.5, cyto_nucl 15, nucl 2.5
+Q9PIK2 cyto 23.5, cyto_nucl 15.5, nucl 4.5
+Q9PIK3 mito 17, cyto 8, nucl 4, cyto_plas 4
+Q9PIL5 cyto 20, cyto_nucl 12, cysk 6, nucl 2, pero 2
+Q9PIM2 cyto 24, nucl 7
+Q9PIP3 cyto 19, cyto_pero 12.3333, cyto_nucl 11.3333, extr 6, pero 4.5
+Q9PIR1 cyto 15.5, extr 11, cyto_nucl 9.5, nucl 2.5
+Q9PIR7 cyto 25, nucl 4
+Q9PIR8 cyto 21.5, cyto_plas 11.5, extr 5, mito 4
+Q9PIS0 cyto 28, mito 3
+Q9PIS3 cyto 26.5, cyto_nucl 16.3333, cyto_pero 14.3333
+Q9PIS4 plas 27, lyso 4
+Q9PIT2 cyto 23.5, cyto_nucl 15, nucl 3.5, mito 2
+Q9PIW2 cyto 18, cyto_nucl 11, mito 10
+Q9PIW6 mito 22, cyto 6.5, cyto_nucl 6
+Q9PIZ5 cyto 21.5, cyto_nucl 12, mito 7
+Q9PJ01 cyto 20, cyto_nucl 12, extr 7, nucl 2, mito 2
+Q9PJ21 cyto 24.5, cyto_nucl 18.8333, cyto_pero 14.1667, nucl 5
+Q9PJ29 cyto 23, mito 6
+Q9PJ53 cyto 18.5, cyto_nucl 14.8333, cyto_plas 10.1667, nucl 9
+Q9PJ66 cyto 29
+Q9PJ85 extr 18, mito 7.5, mito_pero 4.5, cyto 4
+Q9PJ98 cyto_nucl 13.5, cyto 13, nucl 12, mito 6
+Q9PJA1 cyto 19, cyto_nucl 11.3333, cyto_plas 10.3333, cysk 6, extr 3
+Q9PLU8 cyto 23.5, cyto_nucl 14, nucl 3.5, pero 3
+Q9PLV2 cyto 19.5, cyto_nucl 16, nucl 9.5
+Q9PLV4 cyto 17, cyto_nucl 11.1667, cyto_plas 10.1667, extr 9
+Q9PLV9 cyto 22, nucl 3, pero 2, mito_nucl 2
+Q9PLW0 cyto 25.5, cyto_nucl 17.5, nucl 6.5
+Q9PLW1 cyto 24, cyto_nucl 14.8333, cyto_pero 12.8333, nucl 4.5
+Q9PLW7 nucl 32
+Q9PM01 cysk 15, cyto 8, mito 7
+Q9PM24 cyto 23, mito 8
+Q9PM37 cyto 23.5, cyto_nucl 16, nucl 5.5
+Q9PM39 cyto 17, cyto_nucl 11.3333, cyto_pero 10.8333, extr 5, nucl 4.5, pero 3.5
+Q9PM41 pero 17, cyto 8, E.R._mito 4, cyto_golg 4
+Q9PM71 cyto 26.5, cyto_nucl 14.5, mito 4
+Q9PM72 cyto 26, mito 5
+Q9PM75 cyto 12.5, mito 12, cyto_nucl 7.5, extr 6, E.R._mito 6, mito_pero 6
+Q9PM76 cyto 21.5, cyto_plas 11.5, nucl 6
+Q9PM77 plas 15, cyto 9, nucl 4, mito 3
+Q9PM80 cyto 23.5, cyto_nucl 18, nucl 5.5
+Q9PMA3 plas 30
+Q9PMD2 cyto 19, cyto_mito 13, cyto_nucl 11.8333, mito 5.5, mito_pero 4.83333, nucl 3.5
+Q9PMD4 cyto 19.5, cyto_nucl 12, mito 6, nucl 3.5
+Q9PMD8 extr 16, cyto 13
+Q9PMD9 cyto 20.5, cyto_nucl 12.5, mito 5, nucl 3.5
+Q9PMG4 cyto 22.5, cyto_nucl 14.5, nucl 5.5
+Q9PMK3 cyto 23, cyto_nucl 15.8333, cyto_pero 13.5, nucl 5.5
+Q9PMQ5 cyto 25.5, cyto_nucl 14.3333, cyto_plas 13.6667
+Q9PMQ6 cyto 24.5, cyto_nucl 14.5, cyto_mito 14.5
+Q9PMS2 cyto 24.5, cyto_nucl 16, nucl 6.5
+Q9PMS6 cyto 24, cyto_nucl 18.6667, cyto_plas 14, nucl 7
+Q9PMT4 cyto 22, nucl 4, mito_pero 3.5, mito 3
+Q9PMT7 cyto 24, cyto_nucl 19.5, nucl 7
+Q9PMU0 cyto 27, nucl 4
+Q9PMU9 cyto 15.5, cyto_nucl 10.5, mito 6.5, nucl 4.5, E.R._mito 4, golg 3
+Q9PMV3 cyto 17, mito 12
+Q9PMZ6 cyto 22, mito 4.5, nucl 4, E.R._mito 3
+Q9PN07 cyto 19, cyto_nucl 11, extr 5, pero 4
+Q9PN13 cyto 18.5, cyto_nucl 14, mito 7, nucl 6.5
+Q9PN24 cyto 19, cyto_nucl 11.8333, cyto_plas 10.5, mito 9
+Q9PN27 cyto 19.5, cyto_nucl 15.8333, cyto_pero 10.8333, nucl 8
+Q9PN30 nucl 16.5, cyto_nucl 15.1667, cyto 12.5, cyto_plas 7.66667, cyto_mito 7.16667
+Q9PN47 cyto 28, nucl 2
+Q9PN49 cyto 25, nucl 3, mito_pero 2.5
+Q9PN54 cyto 22.5, cyto_nucl 13, mito 7
+Q9PN58 mito 13, cyto_mito 13, cyto 12.5
+Q9PN59 cyto 22, mito 6, pero 3, E.R._mito 3
+Q9PN90 cyto 19, mito 5, E.R. 3, mito_pero 3
+Q9PN94 cyto 15, mito 12, nucl 3
+Q9PN97 cyto 17.5, extr 12, cyto_nucl 10
+Q9PN99 cyto 25, mito 4
+Q9PNE6 cyto 16, extr 10, cyto_nucl 9.33333, cyto_plas 8.83333, cysk 2
+Q9PNI5 cyto 20, cyto_nucl 12.3333, cyto_plas 11, extr 8
+Q9PNJ0 cyto 17, extr 6, nucl 6
+Q9PNJ6 cyto 18.5, cyto_nucl 18.1667, cyto_plas 11.5, nucl 8.5
+Q9PNL3 cyto 21.5, cyto_nucl 12.3333, cyto_plas 11.6667, mito 6
+Q9PNN2 cyto 25, cyto_nucl 17, nucl 5
+Q9PNP6 cyto 16.5, cyto_nucl 16, nucl 6.5, extr 4, pero 2, extr_plas 2
+Q9PNQ2 cyto 17, mito 6.5, E.R._mito 5.5, pero 4
+Q9PNR1 cyto 15.5, cyto_nucl 15, nucl 11.5, mito 3
+Q9PNT0 cyto 24.5, cyto_nucl 14.5, mito 4
+Q9PNT2 cyto 22, nucl 3, pero 3, cysk 2, mito_pero 2, mito_nucl 2
+Q9PNU6 cyto 20, cyto_nucl 15.6667, cyto_plas 12, nucl 5, pero 3
+Q9PNX9 cyto 16, cyto_nucl 12.1667, cyto_pero 9.66667, nucl 6, extr 5, E.R._mito 3.5
+Q9PNY0 cyto 15, cyto_nucl 13, nucl 9, cysk 3, mito 2, cysk_plas 2
+Q9PNY2 cyto 22, cyto_nucl 16.5, nucl 7
+Q9PP04 cyto 24, nucl 3, mito 2, cysk 2
+Q9PP06 nucl 31.5, cyto_nucl 16.5
+Q9PP15 cyto 23.5, cyto_nucl 13, mito 4, nucl 1.5
+Q9PP26 cyto 24, cyto_nucl 14, nucl 2, mito 2, E.R. 2, pero 2, E.R._mito 2, mito_pero 2
+Q9PP34 cyto 16.5, cyto_nucl 11.3333, cyto_plas 9.16667, cysk 7, nucl 4
+Q9PP35 cyto 25, cyto_nucl 14.3333, cyto_pero 13.3333, cysk 3
+Q9PP65 cyto 24.5, cyto_nucl 13.5, cysk 4
+Q9PP70 cyto 26.5, cyto_nucl 14, mito 5
+Q9PP76 cyto 23, nucl 3, mito 3, E.R._mito 3
+Q9PP78 cyto 22, mito 7
+Q9PP85 cyto 18.5, cyto_mito 10.5, nucl 6, plas 2, pero 2
+Q9PP92 cyto 25.5, cyto_nucl 14, mito 2, lyso 2
+Q9PP96 cyto 18, mito 4.5, E.R._mito 4.5, nucl 4, golg 3
+Q9PP99 mito 20, cyto 11
+Q9PPA9 cyto 18, nucl 4, E.R. 4, extr 3, E.R._mito 3, mito_nucl 3
+Q9PPB0 cyto 22, cyto_nucl 17, pero 3
+Q9PPB4 cyto 22, mito 9
+Q9PPB8 cyto 24.5, cyto_nucl 13.5, mito 4
+Q9PPC2 cyto 19.5, cyto_nucl 16.5, nucl 8.5
+Q9PPE0 cyto 13.5, extr 9, cyto_nucl 8.5, mito 3, nucl 2.5, mito_pero 2.5
+Q9PPE4 cyto 26.5, cyto_nucl 17.5, nucl 5.5
+Q9PPF2 cyto 25.5, cyto_nucl 14, mito 3
+Q9PPI1 pero 13, cyto 7, mito 5, extr 3, plas 2, E.R. 2
+Q9PPL8 cyto 31
+Q9PPM1 cyto 28.5, cyto_nucl 17
+Q9PPM7 cyto 22.5, cyto_pero 13.5, pero 3.5, nucl 3, mito 3, mito_nucl 3
+O52908 cyto 22, cyto_nucl 15.8333, cyto_pero 13.5, nucl 6.5
+O69297 cyto 24, cyto_nucl 13.5, extr 4
+O69298 cyto 26.5, cyto_nucl 17, nucl 4.5
+O69301 cyto_nucl 13.1667, cyto 13, nucl 9, cyto_plas 8.33333, mito 6
+O69302 nucl 32
+P0C635 cyto 23, cyto_nucl 15, nucl 5
+P45493 cyto 16, cyto_nucl 16, nucl 12
+P53000 nucl 18.5, cyto_nucl 16.5, cyto 11.5
+P56954 cyto 16, mito 13
+P56970 mito 12, cyto 11, cyto_nucl 10, nucl 7
+P71128 cyto 22, E.R._mito 4.5, extr 3, mito 3
+Q0P7Q2 cyto 12.5, cyto_nucl 11, nucl 8.5, mito 5, cysk 3, mito_pero 3
+Q0P7Q4 cyto 20, cyto_nucl 14.1667, cyto_pero 11.5, cyto_plas 11, nucl 6
+Q0P7S6 cyto 25.5, cyto_nucl 16.5, nucl 6.5
+Q0P7T4 cyto 21, mito 9.5, E.R._mito 5.5
+Q0P7T9 cyto 20, mito 10.5, cyto_nucl 10.5
+Q0P7U2 nucl 20, cyto 5, mito 4
+Q0P7U3 plas 28, golg 3
+Q0P7U8 cyto 19, cyto_pero 12.3333, cyto_nucl 11.8333, mito 5, pero 4.5
+Q0P7U9 cyto 17, extr 6, cysk 5, mito 2
+Q0P7V4 lyso 13, plas 12, extr 3, E.R. 3
+Q0P7V5 cyto 20.5, cyto_nucl 12, mito 8
+Q0P7W0 extr 30
+Q0P7X3 plas 32
+Q0P7X4 plas 28, E.R. 4
+Q0P7Z8 extr 30
+Q0P7Z9 extr 19, E.R. 8, pero 4, E.R._mito 4, E.R._golg 4
+Q0P804 cyto 23, nucl 5, mito 4
+Q0P808 cyto 18, nucl 12
+Q0P822 cyto 18, cyto_nucl 17.6667, cyto_plas 11.1667, nucl 9
+Q0P832 mito 29
+Q0P841 plas 22, E.R. 8
+Q0P842 cyto 24.5, cyto_nucl 16.3333, cyto_plas 13.1667, nucl 6
+Q0P849 E.R. 20, plas 5, mito 4
+Q0P851 cyto 12, nucl 11, mito 7
+Q0P858 plas 26, E.R. 3
+Q0P861 plas 32
+Q0P872 cyto 23, cyto_nucl 17, nucl 7
+Q0P876 cysk 20, cyto 5, nucl 4
+Q0P886 plas 23, pero 5, golg 2
+Q0P887 cyto 18, cyto_nucl 13, nucl 6, mito 4
+Q0P889 cyto 15.5, mito 13, cyto_nucl 8.5
+Q0P896 cysk 15, cyto 12, cyto_nucl 7.83333, cysk_plas 7.83333
+Q0P898 cyto 25, plas 3, nucl 2, extr_plas 2
+Q0P899 cyto 18, mito 9, cyto_pero 9, cyto_plas 9, cyto_golg 9
+Q0P8A0 cyto 29
+Q0P8A1 cyto 16, cyto_nucl 15, extr 6, nucl 6
+Q0P8A4 cyto 25, cyto_nucl 17, nucl 5
+Q0P8A9 plas 23, E.R. 5, lyso 2, golg 2
+Q0P8B0 cyto 19.5, cyto_nucl 13.8333, cyto_pero 12.3333, extr 5, nucl 4
+Q0P8B5 cyto 22.5, cyto_nucl 16.5, nucl 7.5
+Q0P8B6 plas 31
+Q0P8D0 E.R. 19, plas 10
+Q0P8D6 cyto 22, extr 3, nucl 3, mito 3, mito_nucl 3
+Q0P8D7 cyto 15, cyto_nucl 13.6667, cyto_plas 9.66667, extr 8
+Q0P8E0 cysk 12, cyto 10.5, cyto_nucl 9.83333, cyto_plas 6.33333, nucl 5
+Q0P8E1 cyto 14.5, cyto_nucl 10.5, nucl 5.5, pero 5, mito 3, cysk 3
+Q0P8E9 nucl 10, cyto 10, cyto_nucl 10, mito 5.5, cyto_pero 5.5
+Q0P8G7 plas 31
+Q0P8H1 cyto 22, cyto_nucl 15.8333, cyto_pero 12.5, nucl 6.5
+Q0P8I4 cyto 23, mito 5, nucl 3, mito_pero 3
+Q0P8K6 extr 18, E.R. 11
+Q0P8K9 cyto 21.5, cyto_nucl 20, cyto_plas 13.8333, nucl 8
+Q0P8L1 cyto 21, mito 10
+Q0P8L4 cyto 27, mito 3
+Q0P8L5 cyto 23.5, cyto_mito 13, nucl 3, extr_plas 2, plas 1.5, extr 1.5, mito 1.5
+Q0P8L9 cyto 20, cyto_nucl 13, extr 4, nucl 4
+Q0P8M7 cyto 16, cyto_nucl 12, nucl 6, mito 6
+Q0P8N0 cyto 24, mito 4, E.R._mito 3.5
+Q0P8P4 extr 21, mito 5, cyto_nucl 2, pero 2, nucl 1.5, cyto 1.5
+Q0P8Q1 extr 28, lyso 4
+Q0P8Q4 extr 31
+Q0P8R2 plas 28, E.R. 4
+Q0P8U4 cyto 16, cyto_nucl 10.5, mito 10, nucl 3
+Q0P8U6 mito 14, cyto 13, nucl 3
+Q0P8V9 cyto 15, cyto_nucl 11.6667, cyto_pero 11.1667, cyto_plas 8.66667, pero 5.5, extr 4, nucl 4
+Q0P8W6 cyto 15.5, extr 10, cyto_nucl 9.83333, cyto_plas 8.66667, nucl 2, lyso 2
+Q0P8W7 cyto 24, mito 6
+Q0P8X0 cyto 26.5, cyto_pero 15.5, pero 3.5
+Q0P8X2 mito 22, cyto_nucl 6.5, nucl 5, cyto 4
+Q0P8X6 cyto 18.5, cyto_nucl 17, cyto_pero 11.8333, cyto_plas 11.5, nucl 7
+Q0P8Y4 cyto 23.5, cyto_nucl 14, nucl 3.5, plas 3
+Q0P8Y7 extr 17, E.R. 10, pero 2, lyso 2
+Q0P8Z0 cyto 24, mito 3, extr 2, nucl 2
+Q0P8Z1 plas 26, lyso 4
+Q0P8Z4 E.R. 10.5, extr 8, plas 7, E.R._golg 6, pero 5
+Q0P8Z5 cyto 15.5, cysk 10, cyto_nucl 9, extr 4
+Q0P922 cyto 23, cyto_nucl 15, nucl 5
+Q0P923 cysk 21, cyto 6, extr 3, cyto_nucl 3, cyto_pero 3, cyto_plas 3
+Q0P930 extr 11, E.R. 10, plas 6, pero 3, cysk_plas 3
+Q0P933 cyto 23, nucl 4, mito 4, mito_nucl 4
+Q0P934 plas 21, pero 8
+Q0P938 cyto 26, mito 3
+Q0P948 cyto 17, cyto_nucl 13, mito 9, nucl 5
+Q0P952 plas 23, lyso 8
+Q0P954 cyto 16.5, cyto_nucl 12.5, cyto_plas 10.8333, extr 7, nucl 4
+Q0P962 plas 24, E.R. 7
+Q0P970 extr 30
+Q0P971 plas 28, E.R. 4
+Q0P977 plas 19, lyso 9, E.R. 4
+Q0P982 E.R. 13, plas 12, extr 4
+Q0P983 extr 20, E.R. 6, plas 3, E.R._mito 3, E.R._golg 3
+Q0P985 extr 17, cyto 8.5, extr_plas 8.5, cyto_nucl 6
+Q0P989 mito 15, cyto 8, extr 6
+Q0P995 plas 32
+Q0P999 cyto 18.5, cyto_nucl 10.5, mito 8, pero 3
+Q0P9A1 plas 32
+Q0P9C1 cyto 23, cyto_nucl 14, mito 6
+Q0P9C3 cyto 22.5, cyto_nucl 13, mito 4, E.R._mito 3.5
+Q0P9E0 plas 30
+Q0P9E2 extr 24, mito 4, cyto 2, E.R._mito 2, mito_pero 2
+Q0P9F3 cyto 18, mito 7, nucl 5
+Q0P9F7 plas 32
+Q0P9F8 cysk 22, cyto 8
+Q0P9G1 plas 31
+Q0P9G2 plas 26, E.R. 4
+Q0P9G6 cyto 24.5, cyto_nucl 15.5, nucl 3.5
+Q0P9G9 cyto 21.5, cyto_nucl 16.5, nucl 8.5
+Q0P9H2 cyto 19, mito 8, extr 3
+Q0P9H4 cyto 20.5, cyto_nucl 13, mito 6, nucl 4.5
+Q0P9H8 cyto 15, extr 4, pero 4, plas 3, nucl 3, E.R. 2.5
+Q0P9I7 extr 18, E.R. 10, extr_plas 10
+Q0P9J5 cyto 23, extr 4, nucl 4
+Q0P9K1 cyto 22, cyto_nucl 16, nucl 8
+Q0P9L5 mito 18, cyto 12
+Q0P9N5 plas 28, E.R. 3
+Q0P9N7 cyto 26, cyto_nucl 15, pero 3
+Q0P9P7 E.R. 16, pero 9, plas 3, extr 3, extr_plas 3
+Q0P9Q6 cyto 15.5, cyto_nucl 10.6667, cyto_plas 9.5, extr 5, mito 4, pero 3
+Q0P9Q7 mito 20, cyto 6, nucl 4
+Q0P9R1 cyto 18.5, cyto_nucl 14, nucl 6.5, mito 5
+Q0P9S0 extr 29
+Q0P9S6 cyto 20, cyto_nucl 14.5, cyto_plas 12.6667, nucl 3.5, mito 3
+Q0P9T4 cyto 18.5, cyto_nucl 14.5, cyto_plas 12, extr 4, nucl 4
+Q0P9V9 plas 32
+Q0P9W9 cyto 20.5, cyto_nucl 12, mito 9
+Q0P9X4 cyto 25, extr 4
+Q0P9X5 cyto 14.5, extr 8, cyto_plas 8, nucl 7
+Q0P9X6 cyto 24.5, cyto_nucl 17.3333, cyto_plas 13.5, nucl 4
+Q0P9X7 cyto 17, mito 11, cyto_nucl 10
+Q0P9X9 plas 18, lyso 7, mito 4
+Q0P9Z6 cyto 26, cyto_nucl 14.5, pero 3
+Q0PA07 cyto 22, cyto_nucl 13, mito 6
+Q0PA09 extr 12, plas 10, E.R. 8
+Q0PA11 mito 11, cyto 10, nucl 7, mito_pero 7
+Q0PA13 cyto 19, nucl 8, mito 4.5
+Q0PA15 plas 25, E.R. 7
+Q0PA25 plas 28, mito 2
+Q0PA33 cyto 19, cyto_nucl 12.8333, cyto_plas 10.5, cysk 8
+Q0PA34 extr 28, E.R. 4
+Q0PA54 cyto 16, mito 10, extr 3
+Q0PA62 cyto 26.5, cyto_nucl 16, pero 3
+Q0PA70 plas 15, E.R. 8, extr 6
+Q0PA78 cyto 20.5, cyto_nucl 16.1667, cyto_plas 12.1667, nucl 6.5
+Q0PA85 cyto 23.5, cyto_pero 14.6667, cyto_nucl 14.3333, pero 4.5
+Q0PA86 cyto 16, mito 12, cysk 3
+Q0PA89 plas 29
+Q0PA97 cyto 22.5, cyto_nucl 18, nucl 6.5
+Q0PAA0 cyto 26.5, cyto_nucl 14.8333, cyto_plas 14.1667
+Q0PAA5 cyto 13.5, cyto_nucl 13, nucl 9.5, extr 7
+Q0PAA7 extr 32
+Q0PAB3 cyto 19.5, cyto_nucl 13, mito 4, nucl 3.5, cysk 2, E.R._mito 2, mito_pero 2
+Q0PAC1 extr 32
+Q0PAC6 cyto 25.5, cyto_nucl 15.8333, cyto_pero 13.8333
+Q0PAC7 cyto 24, nucl 4, mito 3
+Q0PAD5 extr 23, E.R. 5, golg 2
+Q0PAF4 cyto 19, nucl 4, mito 4, mito_nucl 4
+Q0PAG3 cyto 14.5, cyto_nucl 11.5, nucl 7.5, pero 3.5, plas 3, mito_pero 3
+Q0PAG4 extr 26, mito 2, cyto_nucl 2, nucl 1.5, cyto 1.5, mito_pero 1.5
+Q0PAH0 cyto 18.5, cyto_nucl 15.3333, cyto_pero 10.8333, nucl 8
+Q0PAH1 cyto 17.5, cyto_nucl 15.1667, cyto_plas 10.8333, nucl 5.5, extr 3
+Q0PAH7 cyto 19, pero 4, nucl 3, plas 2, E.R._mito 2, mito 1.5, E.R. 1.5, extr_plas 1.5
+Q0PAI0 cyto 16, cysk 13, cyto_nucl 8.83333, cyto_pero 8.83333
+Q0PAI1 mito 15, nucl 8.5, cyto_nucl 8, cyto 4.5, pero 3
+Q0PAI3 cyto 15, cyto_nucl 11.5, nucl 6, cysk 5, extr 4
+Q0PAI4 E.R. 8.5, E.R._mito 7.83333, plas 7, cyto_mito 6.83333, cyto_plas 6.83333, cyto 6.5
+Q0PAI9 cyto 18.5, cyto_nucl 12.5, nucl 5.5, mito 4, mito_pero 3.5
+Q0PAK7 cyto 19, mito 9, nucl 3
+Q0PAM1 cyto 26, cyto_nucl 14.3333, cyto_plas 13.8333
+Q0PAP5 cyto 19, nucl 5, mito 4.5, E.R._mito 3.5
+Q0PAQ2 plas 26, golg 4
+Q0PAQ3 plas 30
+Q0PAR1 extr 26, E.R. 4
+Q0PAR3 cyto 21, cyto_nucl 13.5, nucl 4, mito 4
+Q0PAS1 extr 29
+Q0PAS2 extr 29
+Q0PAS3 extr 26, E.R. 2, plas 1, mito 1, pero 1, lyso 1, mito_pero 1, E.R._golg 1
+Q0PAS7 cyto 18, cyto_nucl 12, mito 6, nucl 4
+Q0PAT2 cyto 27, cyto_nucl 16.3333, cyto_pero 15
+Q0PAT5 cyto 22, cyto_nucl 15, nucl 6
+Q0PAT7 cyto 26, cyto_nucl 14.5, mito 3
+Q0PAU3 cyto 18, cysk 8, nucl 4, cysk_plas 4
+Q0PAY5 cyto 16.5, cyto_nucl 13.5, nucl 9.5, pero 2
+Q0PAY7 mito 17, extr 6.5, extr_plas 5, plas 2.5, cyto 2, nucl 1, pero 1, lyso 1, golg 1
+Q0PAY8 cyto 19, mito 11
+Q0PAY9 cyto 23, cyto_nucl 14, nucl 3, plas 2, cysk 2, cysk_plas 2
+Q0PB04 extr 13, E.R. 9, lyso 4, plas 2, cyto 2, pero 2, cyto_pero 2, cyto_plas 2
+Q0PB07 extr 9, E.R. 9, golg 6, pero 5, mito_pero 4
+Q0PB23 cysk 14, cyto 9.5, cyto_nucl 8, nucl 5.5
+Q0PB32 cyto 11, cyto_nucl 10, mito 9, nucl 7, extr 4
+Q0PB41 cyto 12, extr 9, E.R. 4.5, E.R._mito 4, mito 2.5, plas 2, pero 2
+Q0PB44 cyto 19, cyto_nucl 12, mito 7, nucl 3, pero 3
+Q0PB53 cyto 24.5, cyto_nucl 16, nucl 4.5
+Q0PB61 cyto 20.5, cyto_nucl 12.3333, cyto_plas 11.1667, cysk 4, extr 2, nucl 2, lyso 2
+Q0PB68 plas 12, pero 12, mito_pero 7.83333, cyto 4
+Q0PB70 cyto 24.5, cyto_pero 15, pero 4.5
+Q0PB72 cyto_nucl 16.5, cyto 14.5, nucl 11.5, extr 4
+Q0PB75 cyto 15, mito 12, pero 3
+Q0PBA0 extr 12, mito 10, cyto_nucl 8.5, nucl 5.5, cyto 4.5
+Q0PBA2 plas 28, E.R. 2
+Q0PBB8 cyto 21.5, cyto_nucl 16.5, nucl 8.5
+Q0PBE2 mito 19, cyto 11
+Q0PBE4 plas 32
+Q0PBE5 extr 12, plas 5, mito_pero 4.5, E.R. 4, lyso 4, pero 3.5
+Q0PBE8 plas 11, pero 8, lyso 5, E.R. 4.5, E.R._mito 4.5
+Q0PBF1 extr 16, E.R. 5, pero 5, plas 3
+Q0PBF4 cyto 19.5, cyto_nucl 15.8333, cyto_plas 11, nucl 6, mito 3
+Q0PBF8 cyto 20, cyto_nucl 13.5, nucl 5, extr 4
+Q0PBG7 cyto 27, nucl 3
+Q0PBH1 cyto 24, nucl 4, E.R._mito 2.5
+Q0PBH3 cyto 12, E.R. 7.5, E.R._mito 6.83333, extr 5, mito 3, mito_pero 2.5
+Q0PBH4 plas 31
+Q0PBH5 cyto 20.5, cyto_nucl 12.5, mito 5, nucl 3.5
+Q0PBI7 extr 18, mito 8, cyto 6
+Q0PBJ0 cysk 16, cyto 8, cysk_plas 8
+Q0PBJ1 plas 16, pero 8, cysk_plas 8, cyto_plas 8
+Q0PBK3 cyto 17.5, cyto_nucl 15.8333, nucl 10, cyto_plas 9.83333
+Q0PBK6 extr 32
+Q0PBK8 plas 20, E.R. 5, extr 3, E.R._golg 3
+Q0PBL0 extr 31
+Q0PBM2 cyto 17.5, cyto_nucl 11.5, cysk 11
+Q0PBM9 cysk 24, mito 4, cyto 3
+Q0PBN3 cyto 23.5, cyto_nucl 14, nucl 3.5, extr 3
+Q0PBN7 plas 20, cyto 7, nucl 3
+Q0PBP1 mito 15, cyto 7, E.R. 3, pero 3, extr 2, nucl 2
+Q0PBP8 plas 24, cyto 3, mito 3, E.R._mito 3
+Q0PBQ0 cyto 22, mito 6, nucl 2
+Q0PBR5 cyto 19, extr 3, mito 3, E.R. 3, pero 3, E.R._mito 3, mito_pero 3
+Q0PBR7 cyto 14.5, cyto_nucl 10.5, cysk 8, nucl 5.5
+Q0PBR9 plas 18, extr 14
+Q0PBS3 cyto 18, cyto_nucl 14, nucl 8, mito 4
+Q0PBS4 cyto 19, nucl 6, mito 6, mito_nucl 6
+Q0PBS6 cyto 21.5, cyto_nucl 14.5, nucl 4.5, extr 2, mito 2
+Q0PBU1 cyto 19.5, cyto_nucl 14.5, nucl 6.5, cysk 3
+Q0PBV8 extr 31
+Q0PBW9 cyto 25.5, cyto_nucl 17, nucl 3.5
+Q0PBX3 plas 28, E.R. 4
+Q0PBX8 cyto 23.5, cyto_nucl 14.5, mito 3, nucl 2.5
+Q0PBY1 cyto 23, cyto_nucl 14.8333, cyto_pero 14, nucl 3.5, pero 3.5
+Q0PBY3 mito 13, cyto 10, extr 5, cyto_plas 5
+Q0PBY8 cyto 18, mito 7, nucl 5
+Q0PBZ0 cyto 20.5, cyto_nucl 11, mito 5, extr 4
+Q0PBZ1 cyto 19, cyto_nucl 15.5, nucl 8, mito 2.5
+Q0PC14 cyto 24.5, cyto_nucl 14, E.R._mito 4, mito 3.5
+Q0PC21 cyto 19, cyto_nucl 13, mito 7, nucl 3
+Q0PC22 cysk 10, extr 9, cyto_nucl 8, nucl 7.5, cyto 5.5
+Q0PC24 extr 30
+Q0PC33 mito 19, cyto 6.5, cyto_nucl 5, pero 3
+Q0PC35 extr 13, E.R. 8, pero 5, cyto 4, E.R._golg 4
+Q0PC43 cyto_nucl 15.6667, nucl 15, cyto 10, cyto_plas 7, mito 5
+Q0PC49 plas 29
+Q0PC50 cyto 16, cyto_nucl 11.8333, cyto_pero 10, nucl 4.5, mito 4, cysk 3
+Q0PC53 plas 32
+Q0PC54 plas 27, E.R. 4
+Q0PC56 extr 31
+Q0PC59 plas 28, E.R. 4
+Q0PC73 cyto 16.5, cyto_nucl 12.5, nucl 7.5, plas 4.5, extr_plas 3
+Q0PC74 cyto 21, cyto_nucl 20, cyto_plas 13.6667, nucl 7.5
+Q0PC79 cyto 19, cyto_nucl 18.5, cyto_plas 12.5, nucl 8.5
+Q0PC84 nucl 12.5, cyto_nucl 12.5, cyto 11.5, mito 4
+Q0PC96 cyto 22, mito 8
+Q0PC97 cyto 25, cyto_nucl 15, nucl 3
+Q0PCA1 cyto_nucl 16, nucl 15, cyto 15
+Q0PCA2 cyto 22.5, cyto_nucl 14.5, nucl 5.5
+Q0PCA3 cyto 25, cyto_nucl 14.8333, cyto_plas 13.5
+Q0PCA5 extr 26, pero 3, mito_pero 3
+Q0PCB8 cyto_nucl 17, nucl 15, cyto 15
+Q0PCC3 cyto 18.5, cyto_nucl 12.5, nucl 5.5, mito 5.5, E.R._mito 3.5
+Q46104 cyto 21.5, cyto_nucl 17.8333, cyto_pero 12, nucl 8
+Q46121 cyto 19, cyto_nucl 12, mito 7, nucl 3
+Q46124 cyto 19.5, cyto_nucl 13.3333, cyto_mito 12.3333, nucl 5, mito_pero 3.83333, mito 3.5
+Q46125 extr 28, E.R. 3
+Q9PHK8 cyto 30
+Q9PHL0 cyto 22.5, cyto_nucl 13.5, nucl 3.5, mito 3
+Q9PHL7 cysk 14, extr 8, cyto 7, cysk_plas 7
+Q9PHM1 extr 29
+Q9PHM5 cyto 16, mito 6, pero 3, cysk 3, E.R._mito 3
+Q9PHN0 cyto 22, mito 5, extr 4
+Q9PHN2 cyto 22.5, cyto_nucl 12, mito 8
+Q9PHP0 cyto 19.5, cyto_nucl 12, extr 9
+Q9PHT5 nucl 32
+Q9PHT7 extr 17, E.R. 14
+Q9PHT8 plas 32
+Q9PHT9 cyto 23, cyto_nucl 15.6667, cyto_plas 13.3333, nucl 4
+Q9PHU0 cysk 13, cyto 9, extr 6, nucl 1, mito 1, lyso 1, golg 1, mito_nucl 1
+Q9PHW3 cyto 23.5, cyto_nucl 14.3333, cyto_plas 12.6667, mito 4
+Q9PHX1 cyto 25.5, cyto_nucl 14, mito 3
+Q9PHY2 cyto 17, cyto_nucl 11, mito 10, nucl 3
+Q9PHY8 cyto_nucl 13.5, cyto 12.5, nucl 9.5, extr 9
+Q9PHZ3 cyto 18.5, cyto_nucl 13, nucl 4.5, mito 3, cysk 3
+Q9PHZ4 plas 19, extr 7, E.R. 3
+Q9PHZ9 cyto 17.5, cyto_nucl 13.1667, cyto_plas 10.6667, extr 5, nucl 3.5
+Q9PI04 mito 16, cyto 15
+Q9PI08 cyto 14, mito 14, cyto_mito 14
+Q9PI11 cyto 17.5, cyto_nucl 15.1667, cyto_plas 10.8333, nucl 5.5, extr 3, pero 3
+Q9PI16 mito 17, cyto 9, mito_pero 9
+Q9PI17 cyto 26, mito 5
+Q9PI18 cyto 25, nucl 4
+Q9PI32 cyto 23, mito 5, nucl 3
+Q9PI33 cyto 23, cyto_nucl 15.3333, cyto_plas 12.5, nucl 4.5
+Q9PI34 cyto 15, mito 8, nucl 7
+Q9PI35 cyto 27, mito 3.5, E.R._mito 2.5
+Q9PI36 cyto_nucl 20, cyto 16, nucl 12.5, cyto_plas 11.1667
+Q9PI38 extr 29
+Q9PI58 mito 14, nucl 11, cyto 7, E.R._mito 7, mito_pero 7
+Q9PI64 cyto 18, mito 7, nucl 6
+Q9PI98 plas 31
+Q9PIA5 cyto 19, cyto_nucl 12.5, extr 4, nucl 4, mito 4
+Q9PIB6 cyto 18, mito 14
+Q9PIB9 cyto 27, mito 3
+Q9PIC0 mito 24, nucl 3.5, cyto_nucl 3.5, cyto 2.5
+Q9PID1 extr 14, cyto 11, mito 3.5, E.R._mito 2.5
+Q9PID2 cyto 11, nucl 10, cyto_mito 10
+Q9PIF1 cyto 21, cyto_nucl 16.6667, cyto_plas 12.5, nucl 6
+Q9PIF2 cyto 22, cyto_nucl 15, nucl 6
+Q9PIF3 cyto 20, mito 10, cyto_nucl 10, cyto_pero 10, cyto_plas 10, cyto_golg 10
+Q9PIG9 nucl 23, cyto 7
+Q9PIH4 cyto 21, cyto_nucl 16.5, nucl 8
+Q9PII2 cyto 21, cyto_nucl 16.3333, cyto_pero 13.8333, nucl 4.5, pero 4.5
+Q9PII8 cyto_nucl 20.1667, cyto 19.5, cyto_plas 12.1667, nucl 9.5
+Q9PIK6 cyto 22.5, cyto_nucl 14.5, cyto_pero 13.5, cyto_plas 13.1667
+Q9PIK8 cyto 18, mito 10, nucl 4
+Q9PIK9 cyto 20, cyto_nucl 16.5, nucl 7, extr 3
+Q9PIM0 cyto 23.5, cyto_nucl 13, mito 6
+Q9PIM1 cyto 16.5, cyto_nucl 9.5, cysk 8, pero 4, cysk_plas 4
+Q9PIM5 cyto 13.5, cyto_nucl 11.5, extr 8, nucl 6.5
+Q9PIN2 plas 27, E.R. 5
+Q9PIQ0 cyto 27, mito 3
+Q9PIQ1 nucl 29
+Q9PIQ3 cyto 19.5, cyto_nucl 12.5, extr 5, nucl 4.5
+Q9PIR0 cyto 19, cyto_nucl 17.6667, cyto_plas 11.6667, nucl 8
+Q9PIS2 cyto 22.5, cyto_nucl 15, nucl 4.5, pero 3
+Q9PIT8 mito 15, cyto_nucl 8, mito_pero 8, nucl 6.5, cyto 6.5
+Q9PIW1 plas 32
+Q9PIX2 extr 25, cyto 5.5, cyto_nucl 4
+Q9PIY9 cyto 19.5, cyto_nucl 12, extr 7, nucl 3.5, extr_plas 3.5
+Q9PIZ0 extr 18, cyto 11.5, cyto_nucl 7
+Q9PIZ1 cyto 17.5, nucl 13, cyto_plas 9.5
+Q9PIZ3 cyto 12.5, cyto_nucl 9, extr 7, nucl 4.5, mito 4.5, pero 3, E.R._mito 3
+Q9PJ06 cysk 19, cyto 6, extr 4, cyto_nucl 4
+Q9PJ14 extr 32
+Q9PJ18 cyto 11, cysk 10, extr 5, cysk_plas 5
+Q9PJ20 cyto 18.5, cyto_nucl 13.5, nucl 5.5, mito 3, extr 2, pero 2
+Q9PJ25 cyto 20, cyto_nucl 17, nucl 10
+Q9PJ28 cyto 11.5, cyto_nucl 9.5, mito 8, extr 6, nucl 4.5, mito_pero 4.5
+Q9PJ31 cyto 27, nucl 3
+Q9PJ40 cyto 20.5, cyto_nucl 14.3333, cyto_pero 12.8333, extr 4, nucl 4
+Q9PJ54 nucl 13.5, cyto_nucl 12, cyto 9.5, mito 8
+Q9PJB0 cyto_nucl 17.1667, cyto 15, nucl 11, cyto_pero 10.5, cyto_golg 9.5
+Q9PLW2 cysk 15, cyto 13.5, cyto_nucl 8
+Q9PLX0 cyto 16, mito 10.5, E.R._mito 6, extr 5
+Q9PLX1 cyto 16.5, mito 12, cyto_nucl 9.5
+Q9PLX2 cyto 23.5, cyto_nucl 17, nucl 7.5
+Q9PLX4 cyto 21.5, cyto_nucl 13, mito 9
+Q9PLX5 cyto 25.5, cyto_nucl 14, mito 5
+Q9PLX6 cyto 20, mito 10, cyto_pero 10, cyto_plas 10, cyto_golg 10
+Q9PLX7 cyto 26.5, cyto_nucl 14.5, mito 4
+Q9PLX8 cyto 23, nucl 5, mito 4
+Q9PLX9 cyto 26.5, cyto_nucl 14, mito 5
+Q9PLY0 nucl 13.5, mito 9, cyto_nucl 9, extr 6
+Q9PLY2 cyto 22, mito 9
+Q9PLY3 cyto 26, mito 4.5, E.R._mito 3
+Q9PLY4 cyto 17, extr 8, nucl 4, extr_plas 4
+Q9PLY5 cyto 18.5, cyto_nucl 18, cyto_plas 12.1667, nucl 9
+Q9PLY7 mito 12, cyto_nucl 11.5, cyto 11, nucl 8
+Q9PLY8 cyto 22, cyto_nucl 13, mito 7.5, E.R._mito 4.5
+Q9PM34 pero 9, cyto 7, mito 6, nucl 4, plas 3, E.R._mito 3
+Q9PM63 cyto 19, cyto_nucl 12.3333, cyto_pero 10.3333, nucl 4.5, cysk 4
+Q9PM64 nucl 25.5, cyto_nucl 15, cyto 3.5
+Q9PM74 cyto 21, nucl 5, mito 5, mito_nucl 5
+Q9PM78 cyto 23.5, cyto_nucl 14.5, mito 3, nucl 2.5, mito_pero 2.5
+Q9PM81 cyto 25, mito 6.5, E.R._mito 4
+Q9PM82 mito 18, cyto 9.5, cyto_nucl 7, nucl 3.5
+Q9PM83 cyto 22, mito 6.5, E.R._mito 4
+Q9PM84 cyto 19, mito 7, extr 6
+Q9PM85 cyto 25, nucl 7
+Q9PM99 cyto 16.5, cyto_nucl 14, nucl 8.5, cyto_mito 8.5, cyto_plas 8.5
+Q9PMA7 plas 31
+Q9PMC8 cyto 20.5, cyto_nucl 12, extr 5, nucl 2.5, extr_plas 2.5
+Q9PMI3 cyto 25, mito 6.5, E.R._mito 4
+Q9PMJ8 extr 27, E.R. 2
+Q9PMK5 cyto 22, extr 2, nucl 2, pero 2, cysk 2
+Q9PMK7 cyto 19, cyto_nucl 14.5, nucl 8, mito 3
+Q9PMP8 cyto 19, mito 6, extr 5
+Q9PMQ3 cyto 25, nucl 5
+Q9PMR0 cyto 22.5, cyto_nucl 18.5, cyto_plas 14.1667, nucl 6
+Q9PN20 cyto 19.5, cyto_nucl 15.6667, cyto_pero 12, cyto_plas 11, nucl 6.5
+Q9PN25 cyto 16, cyto_nucl 14.1667, cyto_plas 10, nucl 6, extr 4
+Q9PN35 cyto 16, extr 12, cyto_nucl 9.33333, cyto_plas 8.83333
+Q9PN51 cyto 23, nucl 7
+Q9PN78 cyto 20, cyto_nucl 13.3333, cyto_plas 11, extr 5, nucl 3.5
+Q9PN86 E.R. 26, extr 4
+Q9PNA7 cyto 22, cyto_nucl 15, nucl 6
+Q9PNB3 cyto 24, mito 7.5, E.R._mito 4.5
+Q9PNB4 cyto 25, cyto_nucl 18.3333, cyto_pero 13.8333, nucl 4.5
+Q9PNB8 cyto 17, mito 12
+Q9PNB9 extr 22, cyto 7
+Q9PNC0 cyto 25.5, cyto_nucl 15.5, nucl 2.5
+Q9PNH7 extr 14, cyto 12, E.R. 2.5, plas 2, E.R._mito 2
+Q9PNI7 cyto 20.5, cyto_nucl 16.5, cyto_plas 13.1667, mito 3
+Q9PNI9 cyto 18, mito 7, extr 4
+Q9PNJ2 mito 19, cyto 12
+Q9PNJ9 plas 30
+Q9PNK3 cyto_nucl 15.8333, nucl 15.5, cyto 15, cyto_mito 8.33333
+Q9PNM6 plas 22, E.R. 8
+Q9PNN7 pero 13, cyto 6, E.R. 5.5, E.R._mito 4, cyto_plas 4
+Q9PNQ6 cyto 16.5, extr 12, cyto_nucl 9.5
+Q9PNU3 cyto 18.5, cyto_nucl 15.3333, cyto_pero 11.5, nucl 6, extr 4
+Q9PNX4 nucl 31
+Q9PNX5 cyto_nucl 13, nucl 12.5, cyto 10.5, extr 4, mito 3
+Q9PNX7 plas 21, extr 5, E.R. 3
+Q9PNZ0 extr 30
+Q9PP01 cyto 18, cyto_nucl 15.5, nucl 11.5, cyto_pero 10.5, cyto_mito 10, cyto_plas 10
+Q9PP77 E.R. 13, extr 9, plas 7
+Q9PPC1 cyto 16, mito 7, extr 6
+Q9PPF1 cyto 19, extr 5, nucl 3, mito 3, mito_nucl 3
+Q9PPF3 cyto 26, nucl 5
+Q9PPF4 cyto 23, extr 2, nucl 2, mito 2, cysk 2, mito_nucl 2
+Q9PPG2 cysk 13, mito 9, cyto 7
+Q9PPI9 cyto 20.5, cyto_nucl 17.3333, cyto_plas 11.3333, nucl 10
+Q9PPJ3 nucl 12.5, cyto_nucl 11, cyto 8.5, extr 6, mito 4
+Q9PPJ4 cyto 27.5, cyto_nucl 17.5
+Q9PPJ5 cyto 23, cyto_nucl 13.8333, cyto_plas 12.5, mito 5
+Q9PPJ7 nucl 13, mito 10, cyto 8
+Q9PPK2 cyto 15.5, cyto_nucl 10, extr 8, nucl 3.5, pero 3
+Q9PPK3 cyto_nucl 19, cyto 17.5, nucl 9.5
+Q9PPL4 cyto 17, extr 7, nucl 3, mito 2, golg 2
+Q9PPM0 extr 25, E.R. 3, plas 2, pero 2
+Q9ZAH3 cyto 25, nucl 6
+P0C633 extr 32
+P45489 cyto 14.5, extr 10, cyto_nucl 10, nucl 4.5
+P45490 plas 27, golg 4
+P45491 cyto 18.5, cyto_nucl 14, nucl 8.5, extr 3
+P45492 plas 13, extr 11, pero 7
+Q0P7Q3 extr 28, lyso 2
+Q0P7Q6 extr 27, pero 3
+Q0P7Q8 extr 30
+Q0P7Q9 extr 26, cyto 5
+Q0P7R0 extr 28, plas 1, cyto 1, E.R. 1, pero 1, cyto_pero 1, cyto_plas 1
+Q0P7R1 cyto_nucl 20.5, cyto 19.5, cyto_plas 13, nucl 9
+Q0P7R6 cyto 21, cyto_nucl 16.5, cyto_plas 13.3333, nucl 4.5
+Q0P7R7 extr 23, E.R. 7
+Q0P7R9 cyto 15, extr 9, cyto_mito 9
+Q0P7S2 mito 22, cyto 7
+Q0P7U4 plas 32
+Q0P7U7 plas 32
+Q0P7V0 extr 29
+Q0P7V1 cyto 26, cyto_nucl 16.6667, cyto_plas 14, cyto_mito 14
+Q0P7V2 cyto 16, nucl 7, extr 3, pero 2, cysk 2
+Q0P7V8 extr 23, E.R. 7
+Q0P7V9 extr 32
+Q0P7W1 extr 32
+Q0P7W2 mito 21, extr 5, nucl 3
+Q0P7W3 extr 31
+Q0P7W4 extr 31
+Q0P7W5 extr 32
+Q0P7W6 cyto 19, cyto_nucl 14.1667, cyto_plas 11.5, mito 6
+Q0P7W7 plas 25, pero 6
+Q0P7W8 plas 30
+Q0P7W9 plas 32
+Q0P7X0 extr 32
+Q0P7X1 plas 32
+Q0P7X2 extr 14, nucl 13, cyto_nucl 11, cyto 5
+Q0P7X5 extr 29
+Q0P7X8 cyto 22.5, cyto_pero 14.6667, cyto_nucl 13.8333, pero 5.5
+Q0P7X9 extr 28, lyso 3
+Q0P7Y0 E.R. 15, extr 11, plas 3
+Q0P7Y1 cyto 27, nucl 3
+Q0P7Y2 plas 17, pero 8, E.R._mito 3.5, mito 2.5
+Q0P7Y4 cyto 22.5, cyto_nucl 16.8333, cyto_pero 14, nucl 5
+Q0P7Y5 extr 30
+Q0P7Y8 cyto 23, cyto_nucl 13.5, mito 4, pero 3
+Q0P7Y9 cyto 18.5, cyto_nucl 12.1667, cyto_plas 11, extr 7, nucl 2.5
+Q0P7Z1 extr 23, E.R. 8
+Q0P7Z5 cyto 23, mito 8
+Q0P7Z6 extr 31
+Q0P7Z7 cyto 19, cyto_nucl 16, nucl 9
+Q0P800 extr 18, plas 7, E.R. 5
+Q0P801 cysk 24, cyto 5.5, cyto_nucl 4.5
+Q0P802 extr 25, E.R. 4
+Q0P803 plas 32
+Q0P805 E.R._mito 9.5, plas 9, cyto 7, mito 7, pero 5
+Q0P806 cyto 20.5, cyto_pero 13.1667, cyto_nucl 11.8333, pero 4.5, E.R. 3
+Q0P807 extr 25, E.R. 7
+Q0P809 plas 29
+Q0P810 cyto 23, extr 3, nucl 3, mito 3, mito_nucl 3
+Q0P811 extr 31
+Q0P812 cyto 22, mito 4, mito_pero 3.5, nucl 3
+Q0P813 plas 30
+Q0P814 extr 26, mito 3, nucl 1.5, cyto_nucl 1.5, E.R._mito 1.5
+Q0P815 cyto 18.5, cyto_nucl 17, nucl 12.5
+Q0P818 plas 18, extr 5, E.R. 4, golg 2
+Q0P819 cyto 21.5, cyto_pero 11.5, mito 9, E.R._mito 6
+Q0P820 nucl 17, cyto 12
+Q0P826 cyto 20.5, cyto_nucl 18.1667, cyto_plas 12.3333, nucl 8.5
+Q0P839 cyto 18.5, cyto_nucl 15.5, mito 7, nucl 5.5
+Q0P840 plas 28, E.R. 4
+Q0P843 cyto 18.5, cyto_nucl 13.5, nucl 7.5, E.R. 3
+Q0P844 extr 19, E.R. 4, mito 3, pero 3, mito_pero 3
+Q0P845 plas 27, golg 3
+Q0P846 plas 32
+Q0P847 cyto 16.5, cyto_nucl 10, mito 7, nucl 2.5, extr 2, pero 2, golg 2
+Q0P848 cyto 15.5, mito 12, cyto_nucl 11, nucl 3.5
+Q0P853 mito 14, cyto 8.5, cyto_nucl 6, extr 3, nucl 2.5, pero 2
+Q0P854 cyto 20, cyto_nucl 12.5, extr 5, nucl 3, mito 3
+Q0P855 cyto 18.5, cyto_nucl 13, nucl 6.5, cysk 3
+Q0P863 extr 13, E.R. 7, lyso 6, plas 5
+Q0P864 plas 24, extr 3, pero 3
+Q0P865 cyto 12.5, cyto_nucl 11.5, mito 8, nucl 7.5
+Q0P866 cyto 15, cyto_nucl 12.8333, cyto_plas 8.66667, mito 6, nucl 5.5
+Q0P867 extr 15, cyto 14, cyto_nucl 9
+Q0P868 plas 28, golg 4
+Q0P869 extr 23, E.R. 4, pero 3
+Q0P870 cyto 19, extr 8, mito 3
+Q0P871 cyto 24.5, cyto_nucl 16, nucl 4.5
+Q0P873 cyto 22, nucl 3, mito 2, pero 2, mito_pero 2
+Q0P874 cyto 26, nucl 3
+Q0P875 cyto 21, mito 6, nucl 4
+Q0P877 cyto 19.5, cyto_nucl 15.5, nucl 6.5, mito 3
+Q0P878 cyto 21.5, cyto_nucl 13, extr 6, nucl 3.5
+Q0P879 cyto 14.5, extr 13, cyto_nucl 9, nucl 2.5
+Q0P880 cyto 25, mito 6
+Q0P881 plas 24, E.R. 4, golg 4, E.R._golg 4
+Q0P882 cyto 25.5, cyto_nucl 14.8333, cyto_plas 13.6667, extr 2, nucl 2
+Q0P883 cyto 23, cyto_nucl 16, nucl 7
+Q0P892 cyto 20, nucl 6, E.R. 3, mito_nucl 3
+Q0P893 extr 30
+Q0P8A2 mito 11, cyto 10, extr 9
+Q0P8A3 mito 30.5, cyto_mito 16
+Q0P8A5 cyto 18, extr 4, mito 4, nucl 3
+Q0P8A6 extr 9, nucl 9, mito 8, E.R. 2, pero 2
+Q0P8A8 extr 14, cyto 10.5, cyto_plas 6, nucl 4
+Q0P8B1 cyto 19, cyto_nucl 11.8333, cyto_pero 11.8333, extr 4, nucl 3.5, pero 3.5
+Q0P8B2 extr 10, E.R. 7, pero 7, plas 6
+Q0P8B3 cyto 13.5, extr 12, cyto_nucl 10.5, mito 3
+Q0P8B7 cyto 16.5, extr 10, cyto_nucl 9, mito 3
+Q0P8B8 plas 24, E.R. 8
+Q0P8C0 nucl 27, mito 2
+Q0P8C1 extr 32
+Q0P8C2 cyto 23, nucl 5, mito 3
+Q0P8C4 plas 30
+Q0P8C5 cyto 22.5, cyto_nucl 16, nucl 6.5
+Q0P8C6 cysk 15, mito 11, cyto 5
+Q0P8C8 extr 16, E.R. 14
+Q0P8C9 extr 8, mito 7, E.R._mito 7, cyto 6, E.R. 5, pero 3, lyso 3, cyto_plas 3, cyto_golg 3
+Q0P8D1 extr 30
+Q0P8D2 extr 32
+Q0P8D3 extr 16, plas 10, lyso 3
+Q0P8D4 extr 24, E.R. 6
+Q0P8D5 nucl 19.5, cyto_nucl 15.5, cyto 10.5
+Q0P8D9 extr 26, E.R. 4
+Q0P8E2 cyto 22, extr 4, nucl 4
+Q0P8E3 extr 16, E.R. 9, golg 3, lyso 2
+Q0P8E4 cyto 13, cyto_nucl 13, nucl 9, extr 8
+Q0P8E5 extr 12, pero 12, nucl 2, cyto 2, E.R. 2, cyto_nucl 2
+Q0P8E6 cyto 16, cyto_nucl 14.3333, nucl 9.5, cyto_plas 9.5, cysk 3
+Q0P8E7 plas 24, E.R. 6
+Q0P8E8 cyto 23.5, cyto_nucl 12.5, mito 7
+Q0P8F0 cyto 16, cyto_nucl 13.5, mito 10, nucl 5, E.R._mito 5
+Q0P8F1 cyto_nucl 16.1667, cyto 15, cyto_plas 9.66667, nucl 9, mito 6
+Q0P8F4 cyto 16, nucl 13
+Q0P8F5 cyto 23, cyto_nucl 14.8333, cyto_plas 12.3333, nucl 5.5
+Q0P8F6 cyto 19.5, cyto_nucl 16, nucl 7.5, extr 3
+Q0P8F9 extr 32
+Q0P8G3 plas 27, E.R. 3
+Q0P8G4 cyto 19.5, cyto_pero 12.1667, cyto_nucl 11.8333, extr 5, pero 3.5
+Q0P8G5 cyto 19.5, cyto_nucl 13, nucl 5.5, extr 5
+Q0P8G8 cyto 18, mito 10, cyto_pero 10
+Q0P8G9 plas 14, E.R. 8, extr_plas 8, pero 7, cysk_plas 7, cyto_plas 7
+Q0P8H0 extr 24, E.R. 6
+Q0P8H2 cyto 17, mito 11, nucl 2
+Q0P8H4 cyto 15.5, cyto_nucl 10.5, cysk 9, nucl 4.5, cysk_plas 4.5
+Q0P8H5 cyto 12, nucl 7, mito 4, extr 3, pero 3, E.R._mito 3
+Q0P8H6 cyto 21, mito 10
+Q0P8H9 cysk 17, mito 7, cyto 5.5, cyto_nucl 4.5
+Q0P8I0 cyto 24, mito 5
+Q0P8I1 cyto 16.5, cyto_nucl 11, mito 7, extr 5
+Q0P8I2 cyto 24, pero 5
+Q0P8I3 cyto 24.5, cyto_nucl 15.8333, cyto_pero 13.3333, nucl 3, mito 3
+Q0P8I5 cyto 22.5, cyto_nucl 15, cyto_plas 13.8333, nucl 3, mito 3
+Q0P8I8 cyto 17, cyto_nucl 10.8333, cyto_plas 9.33333, cysk 8, nucl 3.5
+Q0P8J2 cyto 22.5, cyto_nucl 14.1667, cyto_pero 13.1667, cyto_plas 12.1667, nucl 4.5
+Q0P8J3 cyto 25, cyto_nucl 14.3333, cyto_pero 14.3333, nucl 2.5, pero 2.5
+Q0P8J4 cyto 27.5, cyto_nucl 17.5
+Q0P8J5 cyto 16.5, cyto_nucl 15.5, nucl 7.5, extr 4
+Q0P8K0 cyto 13, cyto_nucl 13, nucl 11, mito 7
+Q0P8K1 cyto 19.5, cyto_mito 14.1667, E.R._mito 7.33333, mito 7
+Q0P8K2 plas 26, cyto 3
+Q0P8K3 cyto 17, mito 14
+Q0P8K4 mito 14, cyto_nucl 6, nucl 5.5, plas 5, cyto 3.5, golg 2
+Q0P8K7 cyto 27, cyto_nucl 17.8333, cyto_pero 15.1667
+Q0P8K8 extr 32
+Q0P8L8 cyto 27, mito 3.5, E.R._mito 2.5
+Q0P8M0 mito 11, extr 9, cyto 9
+Q0P8M1 cyto 15, mito 7, extr 6, plas 2, nucl 2
+Q0P8M2 extr 9, cyto 8, mito 5, cysk 5, cyto_golg 5
+Q0P8M3 cyto 21.5, cyto_nucl 14.1667, cyto_plas 12.5, nucl 3.5, extr 3
+Q0P8M5 cyto 24.5, cyto_nucl 14.5, mito 3
+Q0P8M6 cyto 18.5, cyto_nucl 12, nucl 4.5, extr 4, pero 3
+Q0P8M8 extr 29
+Q0P8M9 extr 31
+Q0P8N2 plas 15, pero 8, cyto_plas 8, E.R. 3.5, E.R._mito 3.5
+Q0P8N3 extr 31
+Q0P8N4 plas 29
+Q0P8N6 plas 30
+Q0P8N7 extr 31
+Q0P8N8 extr 28, E.R. 2, pero 2
+Q0P8N9 cyto 19.5, cyto_nucl 15, nucl 5.5, pero 3
+Q0P8P0 plas 28, E.R. 4
+Q0P8P2 cyto 23.5, cyto_mito 13.6667, mito_pero 3.33333, mito 2.5, pero 2
+Q0P8P6 plas 30
+Q0P8P8 cysk 18, cyto 9.5, cyto_nucl 7, nucl 3.5
+Q0P8Q3 extr 19, E.R. 6, plas 2, pero 2, lyso 2
+Q0P8Q5 cyto 25.5, cyto_nucl 14.5, mito 3
+Q0P8Q6 plas 30
+Q0P8Q7 plas 32
+Q0P8R0 cyto 26, pero 3
+Q0P8R1 cyto_nucl 15.1667, nucl 13, cyto 11, cyto_plas 7.5, mito 4
+Q0P8R4 extr 24, E.R. 5
+Q0P8R6 extr 24, plas 7
+Q0P8R7 cyto 17, cyto_nucl 16.3333, nucl 12.5, cyto_pero 9.5
+Q0P8R8 cyto 26.5, cyto_nucl 15, nucl 2.5
+Q0P8R9 cyto 25.5, cyto_nucl 14, cysk 3
+Q0P8S2 cyto 24.5, cyto_nucl 14.3333, cyto_pero 13.6667, extr 3
+Q0P8S3 cyto 26, cyto_nucl 15.3333, cyto_pero 14.8333
+Q0P8S4 cyto 19, mito 6, nucl 4
+Q0P8S5 cyto 14.5, mito 11, cyto_nucl 10.8333, cyto_pero 8.16667, mito_nucl 8.16667
+Q0P8S6 cyto 22, mito 5.5, E.R._mito 5
+Q0P8S8 cyto 21, mito 8
+Q0P8S9 cyto 24.5, cyto_pero 15, pero 4.5
+Q0P8T2 cyto 23.5, cyto_nucl 14, cysk 4
+Q0P8T3 cyto 20, cyto_nucl 13.5, mito 4, extr 3, nucl 3
+Q0P8T4 cyto 23, cyto_nucl 14.5, extr 5
+Q0P8T5 cyto 16, mito 10, cyto_nucl 10
+Q0P8T6 extr 16, cyto 12, nucl 1, mito 1, pero 1, golg 1, mito_pero 1, mito_nucl 1
+Q0P8T7 cyto 27, extr 2
+Q0P8T8 cyto 13.5, cyto_nucl 10.5, nucl 6.5, E.R._mito 5, mito 4, extr 3
+Q0P8U1 cyto 27.5, cyto_nucl 16
+Q0P8U7 cyto 19.5, cyto_nucl 13.5, nucl 6.5, mito 3, cysk 3
+Q0P8U8 cyto 23.5, cyto_nucl 15.8333, cyto_pero 14.8333, pero 4.5
+Q0P8U9 cyto 21, extr 5, nucl 3
+Q0P8V0 cyto 13, plas 10.5, extr_plas 6.5, cyto_golg 6.5
+Q0P8V1 cyto 23.5, cyto_nucl 14.5, nucl 4.5
+Q0P8V2 cyto 23.5, cyto_nucl 16.5, nucl 6.5
+Q0P8V3 cyto 24.5, cyto_nucl 14, mito 3
+Q0P8V5 cyto 23.5, cyto_nucl 13, mito 5
+Q0P8V6 cyto 17.5, extr 10, cyto_plas 9.5
+Q0P8V7 cyto 20.5, cyto_nucl 12, extr 3, nucl 2.5, E.R. 2, pero 2
+Q0P8V8 cyto 21, cyto_nucl 17.1667, cyto_plas 12.6667, extr 5, nucl 5
+Q0P8W0 cyto 22.5, cyto_nucl 13, mito 3, nucl 2.5, mito_pero 2.5
+Q0P8W1 cyto 16, extr 11, nucl 3
+Q0P8W2 cyto 17, nucl 9, pero 3
+Q0P8W8 extr 27, mito 2, cyto 1.5, cyto_nucl 1.5, E.R._mito 1.5
+Q0P8X3 cyto 15.5, mito 13, cyto_nucl 9
+Q0P8X4 plas 31
+Q0P8X5 plas 29
+Q0P8X7 extr 22, lyso 4, E.R. 3, mito 1.5, mito_pero 1.5, E.R._golg 1.5
+Q0P8X9 cyto 17, nucl 7, extr 4, mito 3
+Q0P8Y0 plas 16, extr 12, pero 3
+Q0P8Y1 extr 27, E.R. 2, lyso 2
+Q0P8Y6 cyto 22, E.R._mito 6.5, mito 4
+Q0P8Z2 cyto 20.5, cyto_nucl 12.5, mito 7
+Q0P8Z8 cyto 21, mito 6, extr 2
+Q0P8Z9 plas 28, golg 3
+Q0P900 extr 16, E.R. 9, cyto 3, pero 2, cyto_plas 2
+Q0P901 cyto 18, cyto_nucl 11.3333, cyto_pero 11.3333, extr 6, nucl 3.5, pero 3.5
+Q0P902 cyto 14, extr 12, nucl 3
+Q0P904 mito 23, extr 6
+Q0P905 extr 17, pero 6, cyto 3, lyso 3, E.R. 2.5
+Q0P907 cyto 25, cyto_nucl 16.5, nucl 4
+Q0P909 cyto_nucl 12.5, cyto 12, mito 10, nucl 9
+Q0P911 plas 15, E.R. 13, extr 4
+Q0P912 cyto 16, mito 13
+Q0P914 cyto 11, mito 11, cyto_mito 11
+Q0P915 plas 32
+Q0P916 extr 30
+Q0P919 cyto 22.5, cyto_nucl 15.6667, cyto_pero 13.3333, cyto_plas 12.3333, nucl 5.5
+Q0P920 cyto 21, mito 7, pero 3
+Q0P921 extr 24, nucl 3, E.R. 3
+Q0P924 nucl 10, extr 8, mito 8, cyto_nucl 8
+Q0P925 plas 30
+Q0P926 cyto 17, mito 10, cyto_pero 10
+Q0P927 cyto 16.5, cyto_nucl 15.1667, cyto_plas 10.3333, nucl 6.5, extr 3
+Q0P928 extr 14, mito 13, lyso 2
+Q0P929 cyto 17.5, cyto_nucl 13.5, cysk 6, nucl 4.5
+Q0P931 nucl 20, mito 8, extr 2, cyto 2
+Q0P932 cyto 16.5, cyto_nucl 10, extr 8, mito 4, extr_plas 4
+Q0P937 extr 14, E.R. 9.5, E.R._golg 9.5, golg 8.5
+Q0P940 cyto 25.5, cyto_nucl 15.1667, cyto_plas 14.5
+Q0P941 extr 26, E.R. 4
+Q0P942 extr 26, pero 3
+Q0P943 cyto 16, cyto_nucl 15.8333, nucl 14.5, cyto_mito 8.83333
+Q0P944 plas 30
+Q0P945 plas 32
+Q0P946 plas 22, E.R. 6, pero 2
+Q0P949 extr 32
+Q0P953 plas 11, extr 8, E.R. 8, mito 3
+Q0P956 cyto 9, extr 8, cyto_mito 8, mito 7
+Q0P957 cyto 19, cyto_nucl 15.3333, cyto_pero 12.1667, nucl 6.5, pero 3.5
+Q0P961 cyto 14, mito 6, nucl 3, E.R. 3, pero 2, E.R._golg 2
+Q0P963 extr 30
+Q0P964 plas 28, E.R. 4
+Q0P965 cyto 18.5, cyto_nucl 16, cyto_plas 12, nucl 7
+Q0P966 E.R. 18, plas 10, extr 3
+Q0P967 cyto_nucl 21.6667, cyto 18.5, cyto_plas 11.8333, nucl 11.5
+Q0P969 plas 30
+Q0P972 E.R. 30
+Q0P973 cyto 26, nucl 3
+Q0P976 cyto 21, cyto_nucl 15, nucl 5, extr 3
+Q0P978 cyto 26.5, cyto_nucl 14.5, mito 3
+Q0P986 mito 20, extr 6, E.R. 2, pero 2
+Q0P987 extr 32
+Q0P988 plas 25, lyso 4
+Q0P990 plas 24, lyso 7
+Q0P991 plas 29
+Q0P992 extr 15, cyto 10.5, cyto_nucl 7, mito 3
+Q0P993 plas 29
+Q0P994 extr 22, cyto 7, cyto_nucl 5.83333, cyto_plas 4.5
+Q0P996 extr 31
+Q0P997 extr 32
+Q0P998 plas 13, E.R._mito 8, E.R. 6, mito 4, pero 4, extr 3
+Q0P9A2 extr 28, cyto 2, E.R. 2
+Q0P9A3 extr 32
+Q0P9A5 cyto 18, mito 11
+Q0P9A9 extr 15, cyto 8, extr_plas 8, mito_pero 5
+Q0P9B0 cyto 26, cyto_nucl 15, mito 3
+Q0P9B1 cyto 16, mito 13
+Q0P9B2 cyto 29
+Q0P9B3 cyto 25.5, cyto_nucl 16.3333, cyto_pero 14.8333, nucl 3
+Q0P9B4 cyto 21, cyto_nucl 12.8333, cyto_plas 11.5, mito 7
+Q0P9B5 cyto 21, cyto_nucl 17.5, cyto_plas 13.3333, nucl 6.5
+Q0P9B6 cyto 26, mito 4
+Q0P9B7 mito 22.5, mito_nucl 14.5, nucl 5.5
+Q0P9B8 cyto 27.5, cyto_nucl 16
+Q0P9B9 cyto 23.5, cyto_nucl 14.5, nucl 4.5
+Q0P9C0 plas 9, extr 7, E.R. 7, pero 3, golg 3
+Q0P9C2 cyto 18, extr 7, mito 5
+Q0P9D2 plas 23, mito 5.5, E.R._mito 5
+Q0P9D5 plas 27, E.R. 3
+Q0P9D9 extr 32
+Q0P9E1 cyto_nucl 18.1667, cyto 17.5, nucl 11.5, cyto_plas 10.8333
+Q0P9E3 plas 26, E.R. 5
+Q0P9E4 cyto 24, nucl 3, pero 2, mito_nucl 2
+Q0P9E6 cyto 16.5, cyto_nucl 13.5, nucl 9.5, cysk 4
+Q0P9E8 extr 32
+Q0P9F4 cyto 18.5, cyto_nucl 18.5, cyto_plas 12.3333, nucl 8
+Q0P9F5 nucl 18, cyto 12
+Q0P9G0 extr 18, E.R. 13
+Q0P9G4 extr 31
+Q0P9G5 cyto 26, cyto_nucl 16.3333, cyto_pero 14.5
+Q0P9G7 cyto 10, plas 6, E.R._mito 5.5, extr 5, cyto_nucl 5, cyto_golg 5
+Q0P9G8 cyto_nucl 15.5, nucl 13.5, cyto 10.5, extr 4
+Q0P9H0 cyto 27.5, cyto_nucl 15.5
+Q0P9H1 cyto 21, mito 5, nucl 3, mito_pero 3
+Q0P9H5 extr 31
+Q0P9H6 extr 32
+Q0P9H7 extr 27, E.R. 3
+Q0P9I0 extr 32
+Q0P9I5 mito 17, cyto 11.5, cyto_nucl 8.5, E.R._mito 8.5, mito_pero 8.5
+Q0P9I8 cyto 16.5, cyto_nucl 13, extr 8, nucl 6.5
+Q0P9I9 cyto 16, cyto_nucl 11, extr 5, nucl 4, mito 4
+Q0P9J0 cyto 26, mito 4
+Q0P9J2 extr 32
+Q0P9J6 extr 16, cyto 9.5, cyto_nucl 6, mito 4
+Q0P9J7 plas 28, lyso 3
+Q0P9J9 extr 19, plas 5, E.R. 5
+Q0P9K3 plas 29
+Q0P9K5 cyto 20.5, cyto_nucl 12, mito 8
+Q0P9K6 cyto 23, cyto_pero 13.3333, cyto_nucl 12.8333, extr 4
+Q0P9K8 cyto 23.5, cyto_nucl 17, nucl 5.5
+Q0P9K9 cyto 16, extr 12, cyto_nucl 9.33333, cyto_plas 8.83333
+Q0P9L0 cyto 20.5, cyto_nucl 14, extr 5, nucl 4.5
+Q0P9L1 extr 25, E.R. 5
+Q0P9L2 plas 28, golg 3
+Q0P9L6 cyto 16.5, cyto_nucl 13.5, nucl 9.5, extr 5
+Q0P9L8 cyto 22, cyto_nucl 17.8333, cyto_pero 12.1667, nucl 8.5
+Q0P9L9 plas 32
+Q0P9M0 extr 29
+Q0P9M1 extr 13, cyto 7.5, cyto_nucl 6.83333, cyto_pero 5.16667, nucl 4, E.R. 3, lyso 2, E.R._mito 2
+Q0P9M4 extr 24, cyto 4, lyso 3
+Q0P9M6 extr 29
+Q0P9M7 extr 32
+Q0P9M8 cyto 19, cyto_nucl 17, nucl 11
+Q0P9N0 extr 24, plas 8
+Q0P9N1 extr 30
+Q0P9N2 extr 30
+Q0P9N3 mito 12, extr 10, cyto 8.5, cyto_nucl 5, extr_plas 5
+Q0P9N4 extr 27, mito 2
+Q0P9N6 plas 31
+Q0P9N8 cyto 20, mito 9
+Q0P9N9 plas 31
+Q0P9P0 extr 18, E.R. 10, pero 2
+Q0P9P1 plas 27, E.R. 2
+Q0P9P3 cyto 22, mito 6, extr 1, nucl 1, pero 1, cysk 1
+Q0P9P5 plas 18, E.R. 8, extr 4, E.R._mito 4, E.R._golg 4
+Q0P9P6 cyto 25, mito 4
+Q0P9P8 extr 31
+Q0P9P9 plas 32
+Q0P9Q0 cyto_nucl 10.8333, nucl 10, mito_nucl 9.5, cyto 8.5, mito 7.5, extr 3
+Q0P9Q2 cyto 23, nucl 4, mito 4, mito_nucl 4
+Q0P9Q4 extr 29
+Q0P9Q9 cyto 20.5, cyto_nucl 12.5, extr 4, nucl 3.5
+Q0P9R3 extr 18, E.R. 12
+Q0P9R4 cyto 16.5, cyto_mito 13, mito 8, E.R._mito 6.83333, E.R. 2.5
+Q0P9R6 plas 20, extr 6, E.R. 3, lyso 3
+Q0P9S1 plas 32
+Q0P9S2 cyto 20, cyto_nucl 14, nucl 6, mito 2
+Q0P9S3 mito 16.5, cyto_mito 9, pero 4, extr 3.5, extr_plas 3.5, plas 2.5, nucl 2, E.R. 2
+Q0P9S4 extr 32
+Q0P9S5 cyto 22, cyto_nucl 14, nucl 4, extr 3, pero 3
+Q0P9S7 cyto 13.5, cyto_nucl 13.5, nucl 12.5, extr 3
+Q0P9S8 extr 10, cyto 10, mito 8, cyto_nucl 7.66667, cyto_plas 6.66667
+Q0P9S9 cyto_nucl 14, nucl 12, cyto 10, extr 9
+Q0P9T0 cyto_nucl 16.5, cyto 16, nucl 9, cysk 3
+Q0P9T1 cyto 19, cyto_nucl 13, extr 5, nucl 5
+Q0P9T2 cyto_nucl 13.6667, cyto 12, nucl 9, cyto_plas 8, extr 6
+Q0P9T3 extr 16, mito 6, cyto_nucl 4.5, cyto 4, mito_pero 4
+Q0P9T5 extr 29
+Q0P9T6 cyto 11.5, mito 9, cyto_nucl 8, extr 6, nucl 3.5, extr_plas 3.5
+Q0P9T7 cyto 24.5, cyto_nucl 15, nucl 4.5
+Q0P9U2 cyto 19, cyto_nucl 16.5, nucl 10
+Q0P9U5 E.R. 19.5, E.R._mito 11, extr 6, pero 2, mito 1.5, cyto_pero 1.5
+Q0P9U7 E.R. 16, extr 8, E.R._mito 8, E.R._golg 8
+Q0P9U8 cyto 25, mito 3, extr 2, mito_pero 2, mito_nucl 2
+Q0P9U9 extr 28, nucl 1, cyto 1, mito 1, cyto_nucl 1, lyso 1, cyto_mito 1, mito_nucl 1
+Q0P9V0 cyto 26.5, cyto_nucl 15.6667, cyto_plas 15
+Q0P9V1 plas 29
+Q0P9V2 cyto 17, mito 13, cyto_nucl 10
+Q0P9V3 extr 21, mito 7, cyto 1, E.R. 1, pero 1, lyso 1, cyto_pero 1
+Q0P9V5 extr 29
+Q0P9V8 plas 27, pero 2
+Q0P9W0 cyto 23.5, cyto_nucl 15, nucl 5.5
+Q0P9W1 plas 32
+Q0P9W2 plas 30
+Q0P9W4 plas 28, E.R. 4
+Q0P9W5 plas 32
+Q0P9W6 cyto 27, mito 2
+Q0P9X1 E.R. 16, plas 7, extr 5, pero 2
+Q0P9X3 extr 29
+Q0P9Y0 plas 23, lyso 7
+Q0P9Y3 mito 16, extr 13
+Q0P9Y4 cyto_nucl 16.5, cyto 12.5, nucl 11.5, extr 5
+Q0P9Y5 cyto 23.5, cyto_nucl 14.5, extr 4
+Q0P9Y8 extr 31
+Q0P9Y9 extr 31
+Q0P9Z0 extr 31
+Q0P9Z1 extr 30
+Q0P9Z2 extr 20, mito 6, E.R. 3, pero 3, cyto_mito 3, mito_nucl 3
+Q0P9Z7 plas 23, E.R. 5, extr 2
+Q0P9Z8 extr 26, E.R. 5
+Q0P9Z9 cysk 14, cyto 13.5, cyto_nucl 9, nucl 3.5
+Q0PA00 cyto 22.5, cyto_nucl 16.3333, cyto_plas 12.3333, nucl 6
+Q0PA05 cyto_nucl 18.5, cyto 17.5, nucl 14.5
+Q0PA06 extr 32
+Q0PA08 cyto 16.5, cyto_nucl 12, mito 7, nucl 6.5
+Q0PA10 cyto 25.5, cyto_nucl 17.5, nucl 4.5
+Q0PA14 extr 14, cyto 8.5, mito 6, cyto_nucl 6
+Q0PA16 cyto 20, extr 5, cysk 3, mito 2
+Q0PA17 cyto 18, mito 8, nucl 5
+Q0PA18 extr 29
+Q0PA19 cyto 18.5, cyto_nucl 13, extr 5, nucl 4.5
+Q0PA20 extr 17, cyto 10, cyto_nucl 7.33333, cyto_plas 5.83333, nucl 3.5
+Q0PA21 extr 32
+Q0PA22 cyto_nucl 12.5, extr 12, nucl 9.5, cyto 8.5
+Q0PA23 cyto 20, cyto_nucl 16, nucl 10
+Q0PA24 extr 30
+Q0PA26 extr 29
+Q0PA28 cyto_nucl 17.8333, cyto 17, nucl 13.5, cyto_plas 9.66667
+Q0PA29 cyto 17.5, extr 11, cyto_nucl 10.8333, cyto_plas 9.66667
+Q0PA30 plas 32
+Q0PA31 cyto_nucl 14, cyto 13.5, nucl 11.5, extr 2, mito 2
+Q0PA36 extr 32
+Q0PA38 plas 24, cyto 4, E.R. 3
+Q0PA39 plas 24, E.R. 5
+Q0PA40 plas 30
+Q0PA41 cyto 26, nucl 4
+Q0PA42 cyto 13, mito 13, cyto_mito 13
+Q0PA46 extr 14, plas 10, lyso 6
+Q0PA47 extr 18, mito 7, nucl 3, cyto 3, cyto_nucl 3
+Q0PA48 extr 18, mito 11
+Q0PA49 cyto 23, mito 7
+Q0PA51 extr 23, nucl 4, cyto 3, mito_nucl 3
+Q0PA53 nucl 32
+Q0PA56 extr 25, cyto 2, pero 2, lyso 2, cyto_pero 2
+Q0PA57 cyto 22, mito 5, nucl 2, pero 2
+Q0PA58 plas 31
+Q0PA60 plas 20, extr 7, E.R. 4
+Q0PA61 cyto 19.5, cyto_nucl 13, mito 8, nucl 3.5
+Q0PA64 plas 28, golg 2
+Q0PA65 plas 31
+Q0PA67 cyto 19.5, cyto_nucl 13, mito 6, nucl 3.5
+Q0PA71 plas 18, lyso 7, E.R. 3, extr 2, pero 2
+Q0PA72 extr 32
+Q0PA73 extr 28, E.R. 2
+Q0PA74 cyto_nucl 17, cyto 14.5, nucl 10.5, extr 5
+Q0PA75 cyto_nucl 15.5, cyto 13.5, nucl 12.5, extr 6
+Q0PA76 cyto 16.5, cyto_nucl 16.5, nucl 9.5, extr 3
+Q0PA77 cyto 12, extr 11, mito 8
+Q0PA81 cyto 23.5, cyto_nucl 15.8333, cyto_plas 12.6667, nucl 6
+Q0PA82 plas 25, extr 4
+Q0PA83 cyto 24, cyto_nucl 15, mito 4
+Q0PA87 plas 30
+Q0PA90 cyto 25.5, cyto_nucl 17, nucl 3.5
+Q0PA93 cyto 23, nucl 4, extr 3
+Q0PA94 cyto 10.5, extr 10, cyto_nucl 9.5, nucl 5.5, mito 4
+Q0PA95 plas 25, extr 3, pero 2
+Q0PA96 cyto_nucl 16.5, cyto 16, nucl 11, extr 1, mito 1, lyso 1, cysk 1, golg 1
+Q0PA98 cyto 20.5, cyto_nucl 12, extr 5, nucl 2.5, extr_plas 2.5
+Q0PA99 cyto 19, nucl 7, mito 3
+Q0PAA1 cyto 25.5, cyto_nucl 15.3333, cyto_pero 14.6667, nucl 3
+Q0PAA3 cyto_nucl 21.1667, cyto 20.5, cyto_plas 12.8333, nucl 8.5
+Q0PAA4 extr 24, E.R. 7
+Q0PAA6 extr 30
+Q0PAA8 plas 32
+Q0PAA9 cyto 15.5, extr 12, cyto_mito 9, nucl 3
+Q0PAB2 extr 31
+Q0PAB4 E.R. 15, extr 12, plas 5
+Q0PAB7 plas 31
+Q0PAB8 extr 21, E.R. 4, nucl 2, cyto 2, mito 2, cyto_nucl 2, cyto_mito 2, E.R._golg 2, mito_nucl 2
+Q0PAB9 extr 23, E.R. 4, plas 3
+Q0PAC0 extr 29
+Q0PAC8 cyto 19.5, cyto_nucl 14.6667, cyto_pero 11.5, nucl 6.5
+Q0PAC9 cyto 23, nucl 4, extr 3
+Q0PAD0 cyto 28, pero 2
+Q0PAD4 extr 26, mito 3
+Q0PAD6 nucl 13, cyto 12, extr 6, cyto_pero 6, cyto_plas 6, cyto_golg 6
+Q0PAD7 cyto 22, extr 7
+Q0PAD8 cyto 19, nucl 11
+Q0PAD9 cyto 16.5, cyto_nucl 13, extr 8, nucl 6.5
+Q0PAE0 cyto 23, nucl 5, extr 3, mito_nucl 3
+Q0PAE1 cyto 16.5, cyto_plas 9, mito 8, extr 3, nucl 3
+Q0PAE2 extr 30
+Q0PAE3 cyto 21.5, cyto_nucl 15.5, nucl 8.5
+Q0PAE4 extr 27.5, extr_plas 14.5
+Q0PAE6 cyto 12.5, mito 10, cyto_nucl 8, extr 5, E.R._mito 5
+Q0PAE7 cyto 15, nucl 7, mito 6, pero 3, E.R._mito 3
+Q0PAE8 plas 29
+Q0PAE9 plas 31
+Q0PAF0 cyto 11.5, mito 10, cyto_nucl 7.5, extr 5, E.R._mito 5
+Q0PAF1 extr 24, E.R. 6
+Q0PAF2 extr 26, E.R. 5
+Q0PAF5 cyto 10, nucl 9, extr 7, cyto_mito 7
+Q0PAF6 plas 28, E.R. 3
+Q0PAF7 cyto 28, nucl 2
+Q0PAF8 plas 20, extr 10, cysk_plas 10, cyto_plas 10
+Q0PAG0 cyto 20.5, cyto_plas 11, extr 6, mito 2, pero 2, mito_pero 2
+Q0PAG2 cyto 17, cyto_nucl 11, cyto_plas 11, extr 8
+Q0PAG8 cyto_nucl 21.1667, cyto 21, cyto_plas 13, nucl 9
+Q0PAH3 cyto 22, cyto_nucl 17, cyto_plas 13.8333, nucl 4.5
+Q0PAH6 cyto 27.5, cyto_nucl 16
+Q0PAH8 cyto 25, E.R._mito 3.5, mito 2.5
+Q0PAH9 cyto 20.5, cyto_nucl 15.3333, cyto_pero 11.8333, nucl 6
+Q0PAI2 cyto 15.5, cyto_nucl 14, cyto_plas 10.5, nucl 6, pero 4
+Q0PAI5 E.R. 17.5, E.R._mito 10, extr 5, pero 5, lyso 2
+Q0PAI7 cyto 20, cyto_nucl 12.8333, cyto_mito 11.8333, nucl 4.5, pero 4
+Q0PAI8 cyto 14, plas 7, cyto_nucl 7, pero 7, cyto_golg 7
+Q0PAJ1 cyto 22, cyto_nucl 14.5, nucl 5, mito 3
+Q0PAJ4 mito 15, cyto 14
+Q0PAJ6 extr 32
+Q0PAJ7 cyto 24.5, cyto_nucl 15.5, nucl 5.5
+Q0PAJ8 cyto 20.5, cyto_nucl 12.1667, cyto_plas 11.8333, extr 5, nucl 2.5
+Q0PAK0 plas 31
+Q0PAK2 plas 19, extr 12
+Q0PAK3 plas 29
+Q0PAK4 mito 24, cyto 8
+Q0PAK5 cyto 21.5, cyto_nucl 13.5, nucl 4.5, mito 2, pero 2, mito_pero 2
+Q0PAK6 cyto 22, mito 8
+Q0PAL3 cyto 24, plas 3, nucl 3
+Q0PAL4 extr 24, E.R. 6
+Q0PAL5 cyto 26, mito 3
+Q0PAL6 E.R. 11.5, extr 11, E.R._golg 9, golg 5.5
+Q0PAL7 plas 30
+Q0PAL9 extr 30
+Q0PAM0 extr 32
+Q0PAM3 extr 30
+Q0PAM4 cyto 22, extr 4, nucl 4
+Q0PAM5 cyto 27, cyto_nucl 15.5, pero 3
+Q0PAN2 cyto 20, cyto_nucl 11.8333, cyto_plas 10.8333, extr 7
+Q0PAN4 cyto 19, cyto_nucl 18.5, cyto_plas 12.5, nucl 8.5
+Q0PAN5 extr 23, E.R. 4.5, E.R._golg 4, golg 2.5
+Q0PAN7 cyto 25.5, cyto_nucl 15.5, nucl 4.5
+Q0PAN8 cyto 23.5, cyto_nucl 16, nucl 5.5
+Q0PAN9 mito 22.5, mito_pero 12.5, cyto_nucl 4, nucl 3.5, cyto 3.5
+Q0PAP1 cyto 28, extr 2, mito 2
+Q0PAP2 cyto 15, cysk 8, cyto_pero 8
+Q0PAP3 cyto 23, nucl 7
+Q0PAP4 nucl 32
+Q0PAP6 cyto 14, cyto_nucl 13.8333, nucl 10.5, cyto_pero 9, pero 2.5
+Q0PAP7 cyto_nucl 16, nucl 14, cyto 12, mito 4
+Q0PAP8 plas 24, E.R. 5
+Q0PAP9 cyto 17.5, cyto_nucl 10.8333, cyto_plas 9.66667, mito 9, cyto_golg 9
+Q0PAQ0 cyto 15, cyto_nucl 10.3333, cysk 9, cyto_plas 8.33333, nucl 4.5
+Q0PAQ4 extr 28, cyto 2
+Q0PAQ6 plas 26, E.R. 6
+Q0PAQ7 extr 25, E.R. 6
+Q0PAQ8 extr 27, E.R. 3
+Q0PAQ9 extr 24, E.R. 4, plas 2, E.R._mito 2, E.R._golg 2
+Q0PAR2 cyto 20, cyto_nucl 15, cyto_plas 12.6667, nucl 4.5, pero 3
+Q0PAR5 cyto 18, cyto_nucl 13.5, extr 6, nucl 5
+Q0PAR6 plas 29
+Q0PAR7 cyto 20, cyto_nucl 18.5, nucl 11
+Q0PAR8 extr 21, E.R. 6, pero 4
+Q0PAR9 plas 21, E.R._mito 4, mito 3, E.R. 3, pero 3
+Q0PAS5 extr 29
+Q0PAS6 extr 32
+Q0PAS9 cyto 25, mito 4
+Q0PAT0 plas 21, E.R. 6, golg 4
+Q0PAT3 cyto 18, cyto_nucl 12.8333, cyto_plas 10, mito 9
+Q0PAT4 cyto 16.5, cyto_nucl 16.5, nucl 9.5, extr 6
+Q0PAU4 cyto 13, cyto_nucl 11.3333, nucl 8.5, cyto_pero 7.83333, extr 6
+Q0PAU6 cyto 30
+Q0PAU7 cyto 19.5, cyto_pero 12.5, pero 4.5, nucl 3, cysk 3
+Q0PAU8 cyto 14.5, cyto_nucl 12.5, nucl 5.5, extr 4, pero 4
+Q0PAU9 plas 15, cyto 9, extr 4, nucl 2
+Q0PAV0 cyto 25, cyto_nucl 14.8333, cyto_plas 13.3333, nucl 3.5
+Q0PAV1 cyto 27, cyto_nucl 15.3333, cyto_pero 14.8333
+Q0PAV2 plas 28, extr 4
+Q0PAV3 cyto 20.5, cyto_nucl 13, cyto_mito 13
+Q0PAV5 extr 25, cyto_nucl 3, nucl 2, cyto 2, mito_pero 2
+Q0PAV6 plas 23, E.R. 6
+Q0PAV7 cyto 22, mito 9
+Q0PAV9 plas 31
+Q0PAW0 cyto 24.5, cyto_nucl 16, mito 4
+Q0PAW1 plas 32
+Q0PAW2 cyto 24, cyto_nucl 18.5, nucl 7
+Q0PAW3 plas 29
+Q0PAW4 plas 29
+Q0PAW6 cyto 24, cyto_nucl 18.6667, cyto_plas 14.1667, nucl 5
+Q0PAW7 cyto_nucl 17.1667, cyto 15.5, cyto_plas 10.1667, nucl 7.5, extr 5
+Q0PAW9 cyto 16, cyto_nucl 12.5, nucl 7, extr 5
+Q0PAX0 cyto 23, cyto_nucl 17, nucl 7
+Q0PAX2 plas 15, E.R. 8, lyso 7
+Q0PAX5 cyto 22, cyto_nucl 13.3333, cyto_pero 13.3333, nucl 3.5, pero 3.5
+Q0PAX6 extr 31
+Q0PAX7 cyto 19.5, cyto_nucl 16, nucl 7.5, extr 4
+Q0PAX8 cyto 21.5, cyto_nucl 13, mito 9
+Q0PAX9 cyto 20, extr 4, nucl 3, mito 3, mito_nucl 3
+Q0PAY0 cyto 16, pero 9, cyto_mito 9
+Q0PAY1 extr 23, cyto 8.5, cyto_nucl 5
+Q0PAY6 extr 19, E.R. 8, plas 2, golg 2
+Q0PAZ1 E.R. 16.5, E.R._golg 11, extr 9, golg 4.5, extr_plas 4.5
+Q0PAZ2 cysk 19, cyto 9.5, cysk_plas 9.5
+Q0PAZ3 plas 15, extr 15, extr_plas 15
+Q0PAZ4 plas 26, lyso 6
+Q0PAZ5 extr 27, E.R. 3
+Q0PAZ6 cyto 18.5, cyto_nucl 14.5, nucl 7.5, mito 3
+Q0PB00 E.R. 13, extr 9, plas 8
+Q0PB05 extr 16, mito 10, cyto_nucl 4, nucl 2.5, cyto 2.5
+Q0PB10 cyto 18, nucl 6, plas 4, E.R. 3
+Q0PB11 cyto 26.5, cyto_nucl 14.5, mito 3
+Q0PB13 cyto 20, cyto_nucl 12.3333, cyto_pero 12.3333, extr 5, nucl 3.5, pero 3.5
+Q0PB14 cyto 12.5, extr 12, cyto_nucl 11.8333, cyto_plas 7.5, nucl 5
+Q0PB16 extr 17, golg 10, lyso 3
+Q0PB17 extr 25, cyto 4
+Q0PB18 cyto 29
+Q0PB19 extr 31
+Q0PB24 cyto 25, extr 3, nucl 3
+Q0PB25 extr 19, cyto 7.5, cyto_nucl 5, mito 2
+Q0PB26 cyto 24, cyto_nucl 16.5, cyto_plas 13.8333, cyto_pero 13.6667
+Q0PB27 plas 25, E.R. 7
+Q0PB28 cyto 27.5, cyto_nucl 14.5
+Q0PB29 plas 30
+Q0PB30 cyto 27, cyto_nucl 15
+Q0PB31 cyto 20, cyto_nucl 11.5, mito 8
+Q0PB33 cyto 23, mito 5, nucl 3, mito_pero 3
+Q0PB45 plas 23, lyso 9
+Q0PB46 plas 32
+Q0PB47 cyto 19.5, cyto_nucl 16.1667, cyto_plas 11.8333, nucl 5.5, extr 2, lyso 2
+Q0PB49 cyto 14.5, cyto_mito 11.8333, mito 7.5, E.R._mito 6.66667, mito_pero 6.33333, pero 3.5, E.R. 2.5
+Q0PB50 cyto 14.5, mito 11, cyto_pero 8, extr 2, nucl 2
+Q0PB52 plas 27, E.R. 5
+Q0PB54 cyto 18.5, cyto_plas 10, extr 7, mito 5
+Q0PB56 extr 23, plas 4, E.R. 3
+Q0PB57 extr 12, cyto 10, mito_pero 6, pero 5.5, mito 3.5
+Q0PB58 extr 24.5, extr_plas 13, mito 3
+Q0PB59 cyto 11, extr 8, E.R._mito 4.33333, mito 4, mito_pero 3.83333, E.R. 3.5, pero 2.5
+Q0PB64 cyto 22, extr 7
+Q0PB65 cyto 23.5, cyto_nucl 15.5, nucl 4.5
+Q0PB66 cyto 16, cyto_nucl 12, extr 7, nucl 6
+Q0PB71 cyto 15.5, cyto_nucl 9.5, extr 7, mito 5, nucl 2.5, E.R._mito 2.5, mito_pero 2.5
+Q0PB74 cyto 21.5, cyto_nucl 11.5, extr 6
+Q0PB79 extr 23, E.R. 8
+Q0PB80 plas 25, E.R. 7
+Q0PB81 cyto 21.5, cyto_nucl 18, cyto_plas 13.6667, nucl 6
+Q0PB82 nucl 18.5, cyto_nucl 13, cyto 6.5, extr 6
+Q0PB83 cyto 16, cyto_nucl 11.6667, cyto_plas 9.83333, extr 5, nucl 3, mito 3
+Q0PB84 cyto 26, E.R._mito 5, mito 3, E.R. 3
+Q0PB85 extr 32
+Q0PB86 extr 30
+Q0PB87 plas 21, extr 10
+Q0PB88 cyto_nucl 18.6667, cyto 15.5, nucl 10.5, cyto_plas 10.1667
+Q0PB89 plas 21, E.R. 6, pero 3, E.R._mito 3, E.R._golg 3
+Q0PB90 extr 32
+Q0PB91 cyto 20, extr 4, nucl 3, pero 3
+Q0PB92 cyto 21, extr 5, nucl 4
+Q0PB93 nucl 22, extr 5, mito 3
+Q0PB94 mito 11, cyto_nucl 10, nucl 9.5, cyto 5.5, E.R._mito 5.5
+Q0PB95 cyto 19, cyto_pero 11, extr 4, mito 4
+Q0PB96 mito 12, cyto 9.5, cyto_nucl 8.5, extr 5, nucl 4.5
+Q0PB97 extr 31
+Q0PB98 cyto 20.5, cyto_nucl 15.8333, cyto_pero 11.5, nucl 5, cysk 5
+Q0PB99 cyto 25.5, cyto_nucl 17, nucl 5.5
+Q0PBA4 extr 30
+Q0PBA6 cyto 13.5, cyto_mito 10, mito 5.5, plas 4, E.R. 4, nucl 3
+Q0PBA7 cyto 30
+Q0PBB1 plas 21, lyso 6, E.R. 4
+Q0PBB3 plas 19, cyto 7.5, cyto_mito 4.5, nucl 3
+Q0PBB4 extr 27, lyso 3
+Q0PBB5 cyto 22, cyto_nucl 14.3333, cyto_plas 12, mito 4
+Q0PBB9 mito 18, cyto 8.5, cyto_nucl 6, pero 3
+Q0PBC0 cyto 13, cyto_mito 8, pero 6, nucl 5, plas 3, extr_plas 3
+Q0PBC5 plas 28, E.R. 4
+Q0PBD0 cyto 22, nucl 6, cysk 2
+Q0PBD2 plas 24, extr 5
+Q0PBD3 cyto 25, cyto_nucl 14.5, extr 2, nucl 2, cysk 2
+Q0PBD4 extr 27, cyto 2, E.R. 2
+Q0PBD5 extr 31
+Q0PBD7 cyto 12, cysk 10, mito 6, cyto_pero 6, cyto_plas 6, cyto_golg 6
+Q0PBD8 cyto_nucl 15.8333, cyto 15, cyto_pero 10.8333, nucl 9.5, pero 4.5
+Q0PBE1 plas 25, E.R. 3, mito_pero 2.5
+Q0PBE3 extr 31
+Q0PBE6 cyto 21, cyto_nucl 13, mito 5, nucl 3, mito_pero 3
+Q0PBE7 cyto 23, nucl 4, mito 3
+Q0PBF3 cyto 17, extr 7, mito 7
+Q0PBF5 extr 16, cyto 10, cyto_nucl 7, cysk 4
+Q0PBF6 cyto 22, cyto_nucl 12.8333, cyto_plas 11.8333, mito 5
+Q0PBF7 extr 15, E.R. 9, plas 6
+Q0PBF9 extr 17, cyto 8, cyto_nucl 5.33333, cyto_plas 4.83333, mito 3
+Q0PBG4 cyto 19.5, cyto_nucl 16, nucl 11.5
+Q0PBG5 cyto 19, mito 8, extr 4, E.R._mito 4, mito_pero 4
+Q0PBG6 plas 28, E.R. 4
+Q0PBG8 plas 22, extr 4, E.R. 4
+Q0PBG9 cyto 22, cyto_nucl 15, nucl 6
+Q0PBH0 plas 32
+Q0PBH2 plas 14, E.R. 12, lyso 3
+Q0PBH6 extr 23, cyto 7
+Q0PBH8 extr 17, cyto 8.5, cyto_plas 6.66667, cyto_nucl 6
+Q0PBI2 cyto 19.5, cyto_nucl 15.5, cyto_plas 12.5, nucl 5, mito 4
+Q0PBI6 cyto 19, nucl 10
+Q0PBI9 cyto 25, cyto_nucl 18, nucl 5
+Q0PBJ4 cyto 25.5, cyto_nucl 15.5, nucl 4.5
+Q0PBJ6 plas 26, golg 5
+Q0PBJ9 plas 29
+Q0PBK0 plas 32
+Q0PBK4 cyto 15, E.R._mito 6.66667, mito_pero 6.66667, pero 6, mito 4.5, E.R. 3.5
+Q0PBK5 cyto 23, cyto_nucl 14, mito 6
+Q0PBK7 cyto 16, E.R._mito 4.33333, plas 3, extr 3, nucl 3, mito 3, extr_plas 3, mito_pero 3
+Q0PBK9 cyto 22, cyto_nucl 14, nucl 4, extr 2, pero 2
+Q0PBL4 cyto 22.5, cyto_plas 13.6667, cyto_nucl 13.5, mito 3
+Q0PBL5 plas 20, cyto 6, mito 3.5, mito_pero 3, cyto_golg 3
+Q0PBL7 extr 29
+Q0PBM0 cyto 20, nucl 7, mito 3
+Q0PBM1 cyto 17.5, cyto_nucl 13.8333, cyto_pero 11.3333, nucl 6, pero 3.5
+Q0PBM3 cyto_nucl 13.8333, cyto 13, nucl 9.5, cyto_pero 8.16667, extr 7
+Q0PBM6 cyto 15.5, extr 12, cyto_nucl 8.5, cysk 2
+Q0PBM8 extr 25, E.R. 5
+Q0PBN8 extr 24, plas 5
+Q0PBN9 extr 15, plas 12, E.R. 5
+Q0PBP0 extr 31
+Q0PBP3 plas 16, E.R. 8, cysk_plas 8, cyto_plas 8
+Q0PBP4 cyto 18, cyto_nucl 14.5, nucl 7, mito 5
+Q0PBP5 plas 16, extr 14
+Q0PBP7 cyto 16.5, cyto_nucl 15, cyto_plas 11.1667, nucl 5, mito 4
+Q0PBP9 plas 28, pero 2, golg 2
+Q0PBQ1 cyto 16.5, cyto_nucl 13, nucl 8.5, mito 3, cysk 3
+Q0PBQ4 extr 22, cyto 8
+Q0PBQ5 plas 29
+Q0PBQ6 cyto 14.5, extr 11, cyto_nucl 10, nucl 4.5
+Q0PBQ7 cyto 11.5, cyto_mito 8.83333, extr 7, E.R._mito 5.16667, mito 4.5, mito_pero 4.33333, nucl 3, E.R. 2.5, pero 2.5
+Q0PBQ8 cyto 17, cyto_nucl 16, cyto_plas 11.5, nucl 5.5, extr 5
+Q0PBQ9 cyto 17, cysk 8, extr 4, cysk_plas 4
+Q0PBR2 cyto 17.5, cyto_nucl 13.5, nucl 8.5, extr 2, pero 2
+Q0PBR4 cyto 11, cyto_nucl 10, cysk 10, nucl 5, cysk_plas 5
+Q0PBR6 plas 30
+Q0PBS2 extr 17, plas 9, E.R. 3
+Q0PBS5 cyto 25.5, cyto_plas 13.5, mito 4
+Q0PBS9 cyto 16.5, cyto_nucl 15, extr 5, mito 5
+Q0PBT1 cyto 22, cyto_nucl 15, nucl 6
+Q0PBT5 plas 32
+Q0PBT6 plas 28, E.R. 4
+Q0PBT7 cyto 26.5, cyto_nucl 15.5, nucl 3.5
+Q0PBT8 extr 30
+Q0PBT9 extr 27, cyto 2
+Q0PBU0 extr 24, E.R. 6
+Q0PBU9 cyto 20, nucl 4, extr 3, mito_nucl 3
+Q0PBV0 cyto 21.5, cyto_nucl 13.5, nucl 4.5, cysk 3
+Q0PBV3 plas 28, pero 2, lyso 2
+Q0PBV4 cyto 15.5, cyto_nucl 12.5, nucl 8.5, mito 5
+Q0PBV5 cyto 20.5, cyto_nucl 11.5, mito 6, pero 3, E.R._mito 3
+Q0PBV6 plas 25, E.R. 5
+Q0PBV7 plas 26, extr 4
+Q0PBV9 extr 9, E.R. 9, cyto 5, extr_plas 5, nucl 4, pero 4
+Q0PBW0 plas 21, extr 5, pero 4
+Q0PBW1 extr 17, E.R. 7, plas 4, E.R._mito 4
+Q0PBW2 extr 28, plas 1, E.R. 1, pero 1, golg 1, E.R._golg 1
+Q0PBW3 extr 32
+Q0PBW4 extr 29
+Q0PBW5 plas 32
+Q0PBW6 cyto 26, cyto_nucl 14.5, pero 4
+Q0PBW7 mito 18, cyto 12
+Q0PBW8 cyto 18, cyto_nucl 17.5, nucl 7, extr 5
+Q0PBX0 extr 29
+Q0PBX4 cyto 24, nucl 6
+Q0PBX5 extr 17, E.R. 9, pero 4
+Q0PBX9 extr 32
+Q0PBY0 plas 26, lyso 6
+Q0PBY4 cyto 24, extr 4, nucl 2, extr_plas 2
+Q0PBY5 cyto 15.5, cyto_mito 13, mito 9, E.R._mito 7.33333, E.R. 2.5
+Q0PBY6 extr 25, mito_pero 4, mito 2.5, pero 2.5
+Q0PBY7 cysk 27, cyto 3
+Q0PBZ2 mito 16, cyto 8, E.R._mito 8, cyto_nucl 7.5
+Q0PBZ3 plas 11, E.R. 9, pero 7, extr 4
+Q0PBZ4 extr 31
+Q0PBZ5 cyto 17.5, cyto_nucl 10.5, extr 8, mito 3
+Q0PBZ6 plas 31
+Q0PBZ7 cyto_nucl 17, nucl 16, cyto 14
+Q0PBZ8 cyto 23, cyto_nucl 15.8333, cyto_pero 13, nucl 5.5
+Q0PC02 extr 15, mito 8, cyto 5, mito_nucl 5
+Q0PC04 cyto 26, pero 4
+Q0PC06 extr 12, golg 12, E.R. 4, lyso 3
+Q0PC07 plas 27, extr 3
+Q0PC08 extr 20, mito 6, cyto_nucl 2, nucl 1.5, cyto 1.5
+Q0PC09 cyto 20.5, cyto_nucl 13.8333, cyto_plas 11.1667, nucl 5, extr 4
+Q0PC12 extr 15, cyto 14
+Q0PC13 E.R. 19, plas 7, extr 3
+Q0PC15 cyto 20, mito 9
+Q0PC17 cyto 29
+Q0PC18 cyto 18.5, cyto_mito 13.5, mito 7.5, nucl 2, pero 2
+Q0PC19 mito 18, cyto 12
+Q0PC23 extr 31
+Q0PC26 extr 27, golg 3
+Q0PC27 extr 16, E.R. 9, nucl 3, pero 3
+Q0PC28 plas 14, E.R. 10, extr_plas 10
+Q0PC37 cyto 16, mito 13
+Q0PC38 cyto 14, extr 9, cyto_nucl 9
+Q0PC44 extr 26, E.R. 3
+Q0PC45 extr 29
+Q0PC46 extr 32
+Q0PC47 extr 23, mito 8
+Q0PC48 E.R. 23, extr 5, pero 2
+Q0PC52 cyto 25, nucl 4
+Q0PC55 cyto 12, mito 9, extr 8.5, extr_plas 5
+Q0PC57 extr 26, golg 2, mito 1, E.R. 1, pero 1, lyso 1, E.R._mito 1, mito_pero 1, cyto_golg 1
+Q0PC58 extr 31
+Q0PC60 mito 22, cyto 7
+Q0PC61 cyto 22.5, cyto_nucl 13.5, extr 3, mito 2, pero 2, mito_pero 2
+Q0PC62 cyto 15, nucl 5, extr 4, E.R. 3, mito 2, pero 2, extr_plas 2, mito_pero 2, E.R._golg 2
+Q0PC63 extr 26, cyto 5
+Q0PC64 cyto 17.5, cyto_pero 11.5, mito 6, pero 4.5
+Q0PC65 extr 23, mito_pero 3.5, pero 2.5, cyto 2
+Q0PC66 cysk 17, cyto 9, cyto_pero 6, nucl 4
+Q0PC70 cyto 23, nucl 3, extr 2, mito 2
+Q0PC71 E.R. 10, extr 9, E.R._mito 8.5, plas 7, mito 5
+Q0PC72 cyto 21, cyto_nucl 16, nucl 7
+Q0PC75 extr 28, pero 2, lyso 2
+Q0PC76 extr 30
+Q0PC77 cyto 15, cyto_nucl 14.5, nucl 10, extr 2, mito 2, pero 2, mito_pero 2
+Q0PC78 cyto 19.5, cyto_nucl 13, nucl 5.5, cysk 3
+Q0PC81 cyto_nucl 16.6667, cyto 16.5, cyto_plas 10.5, nucl 7.5, mito 4
+Q0PC82 cyto 19.5, cyto_nucl 17.3333, cyto_pero 12.5, nucl 9
+Q0PC83 cyto 15, cyto_nucl 14, nucl 11, extr 2, cysk 2
+Q0PC85 cyto 16, nucl 11, pero 3
+Q0PC86 cyto 25, cyto_nucl 17.6667, cyto_plas 14.5
+Q0PC88 plas 11, E.R._mito 8, E.R. 7, mito 5, pero 5, extr 2, lyso 2
+Q0PC89 extr 27, plas 1, E.R. 1, pero 1, lyso 1, golg 1, E.R._golg 1
+Q0PC90 cyto 19, mito 10
+Q0PC91 plas 32
+Q0PC92 extr 31
+Q0PC93 plas 27, E.R. 5
+Q0PC94 nucl 16.5, cyto_nucl 16.5, cyto 15.5
+Q0PC95 cyto 23, cyto_pero 14.5, cyto_nucl 13.8333, pero 4.5
+Q0PCA0 plas 32
+Q0PCA4 cyto 25.5, cyto_nucl 14.3333, cyto_plas 13.6667
+Q0PCA6 plas 13, extr 8, E.R. 6, golg 3, E.R._mito 3
+Q0PCA7 extr 21, E.R. 9
+Q0PCA8 E.R. 16, plas 15
+Q0PCB0 cyto 21, E.R._mito 4.5, plas 3, mito 3, pero 3
+Q0PCB1 E.R. 11, plas 9, extr 9, extr_plas 9
+Q0PCB3 extr 18, cyto 13
+Q0PCB4 extr 23, E.R. 7
+Q0PCB6 cyto 12.5, cyto_nucl 12, nucl 8.5, mito 6, extr 5
+Q0PCB7 cyto 26, cyto_nucl 16.8333, cyto_pero 14.5
+Q0PCB9 plas 32
+Q0PCC0 cyto 23, mito 6
+Q0PCC1 extr 32
+Q9PHS3 plas 32
+Q9PIC8 cyto_nucl 16.6667, cyto 14.5, nucl 9.5, cyto_plas 9.5, extr 4
+Q9PIP2 cyto 21.5, cyto_nucl 11.5, mito 6
+Q9PIQ8 plas 30
+Q9PIX9 mito 18, cyto 10.5, cyto_nucl 6.5
+Q9PMJ7 nucl 13.5, cyto_nucl 13.5, cyto 10.5, extr 6
+Q9PML1 cyto 19.5, cyto_nucl 13, extr 7, nucl 5.5
+Q9PNC3 cyto 15, mito 13, nucl 2, pero 2
+Q9PNU1 plas 28, golg 4
+Q9PNX6 mito 13, extr 12, cyto 4.5, cyto_nucl 4.5
